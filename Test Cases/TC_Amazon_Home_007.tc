@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Amazon application for the &quot;Deal of the Day&quot; section.</description>
+   <name>TC_Amazon_Home_007</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3015605b-9d0c-4c68-871c-eba52bf2f978</testCaseGuid>
+</TestCaseEntity>

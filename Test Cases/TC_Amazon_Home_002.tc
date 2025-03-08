@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Amazon application to register as a new user.</description>
+   <name>TC_Amazon_Home_002</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c28c079f-806b-49f4-a90a-ba8d213ef98d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Phone number 8825146854_a-icon a-icon-radio</name>
+   <tag></tag>
+   <elementGuidId>93ba5bb8-b48c-448a-b58e-d184b141b7ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.a-icon.a-icon-radio</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='new-kyc']/div/label/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#new-kyc i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a50531ad-0592-4036-b12e-1f796355f97a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-icon a-icon-radio</value>
+      <webElementGuid>d1e414ad-5f94-4d14-8f19-d6d8a558789c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;new-kyc&quot;)/div[@class=&quot;a-radio a-radio-fancy&quot;]/label[1]/i[@class=&quot;a-icon a-icon-radio&quot;]</value>
+      <webElementGuid>2c0e8c2a-53cf-4858-8dc3-f7550a733d8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='new-kyc']/div/label/i</value>
+      <webElementGuid>a1eb1721-1529-4509-bcba-d21baf05df06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/i</value>
+      <webElementGuid>6a47464d-dedf-4ace-9a8d-495aaf741ddb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

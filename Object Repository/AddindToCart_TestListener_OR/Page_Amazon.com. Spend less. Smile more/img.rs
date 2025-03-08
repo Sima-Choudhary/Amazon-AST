@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>ae443a10-4fc6-4fa2-8534-b5348b1c36c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Timex Men's Expedition Camper Nylon/Leather Strap Watch&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='CardInstanceJczJZz--OA5x-8x7kEXvjA']/div[2]/div/div[2]/a/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Timex Men's Expedition Camper Nylon/Leather Strap Watch&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>0caf802f-a43b-466c-ae8b-c7a20771c651</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Timex Men's Expedition Camper Nylon/Leather Strap Watch</value>
+      <webElementGuid>4809f480-b2b4-4f39-84d3-0fb8faca3c1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://m.media-amazon.com/images/I/61bHVKaSgCL._AC_SY220_.jpg</value>
+      <webElementGuid>faeef6e1-b9c2-4130-a058-cd4f6228f9a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-a-hires</name>
+      <type>Main</type>
+      <value>https://m.media-amazon.com/images/I/61bHVKaSgCL._AC_SY220_.jpg</value>
+      <webElementGuid>eb459179-6a4d-4007-ba90-1f56e8d43103</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CardInstanceJczJZz--OA5x-8x7kEXvjA&quot;)/div[@class=&quot;a-cardui-body _quad-multi-asin-card-v2_fluid_fluidCardBody__3TzJ4 _quad-multi-asin-card-v2_style_cardBodyHasFooter__1l9jS&quot;]/div[@class=&quot;a-section a-spacing-base aok-clearfix _quad-multi-asin-card-v2_style_quadrantContainer__1hEF5&quot;]/div[@class=&quot;a-section a-spacing-none aok-float-left aok-relative _quad-multi-asin-card-v2_style_quadrant__3xH-V _quad-multi-asin-card-v2_style_topRightQuadrant__2rEJ7&quot;]/a[@class=&quot;a-spacing-none a-link-normal _quad-multi-asin-card-v2_style_linkContainer__1pWUv a-text-normal&quot;]/div[@class=&quot;a-image-container a-dynamic-image-container _quad-multi-asin-card-v2_style_quadrantImageContainer__2QeUm&quot;]/img[1]</value>
+      <webElementGuid>2c0ef71c-3273-4a57-8de1-108f9b7b8f02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='CardInstanceJczJZz--OA5x-8x7kEXvjA']/div[2]/div/div[2]/a/div/img</value>
+      <webElementGuid>9f8d4151-0a17-4fc0-a1e2-118d5fb7bd97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt=&quot;Timex Men's Expedition Camper Nylon/Leather Strap Watch&quot;]</value>
+      <webElementGuid>ec0282d0-ac05-4931-aa3a-b8b2d867b3d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/div/img</value>
+      <webElementGuid>7172db8f-c148-4f18-bd12-dd19e6561a50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = concat(&quot;Timex Men&quot; , &quot;'&quot; , &quot;s Expedition Camper Nylon/Leather Strap Watch&quot;) and @src = 'https://m.media-amazon.com/images/I/61bHVKaSgCL._AC_SY220_.jpg']</value>
+      <webElementGuid>197702db-50c9-423f-aecc-968b508784bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

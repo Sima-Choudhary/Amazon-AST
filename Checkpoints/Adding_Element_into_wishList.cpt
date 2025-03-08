@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Adding_Element_into_wishList</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/LogIn_Internal_DDT</source-url>
+   </source-info>
+   <taken-date>2025-03-04T18:17:18.32+05:30</taken-date>
+   <column-names>
+      <column-name>Email or Mobile phone number</column-name>
+      <column-name>Password</column-name>
+      <column-name>Status</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "+918582912274",
+      "checked": false
+    },
+    {
+      "value": "Amazon@123",
+      "checked": true
+    },
+    {
+      "value": "Successful",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

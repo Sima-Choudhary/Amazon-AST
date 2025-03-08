@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Amazon application to log in as a user.</description>
+   <name>TC_Amazon_Home_003</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cb670a21-b7c4-4a4c-b8ae-972b92ff58db</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>adding elements to wish List</description>
+   <name>TC_Amazon_Home_011</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e68bf540-b0b7-40e8-a116-1b09a72daf9b</testCaseGuid>
+</TestCaseEntity>

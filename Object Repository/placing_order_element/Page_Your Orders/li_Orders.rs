@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Orders</name>
+   <tag></tag>
+   <elementGuidId>430dc36d-42bf-4f9d-8b90-1a6256cd581a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.page-tabs__tab.page-tabs__tab--selected</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a-page']/section/div/div[3]/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>section >> internal:text=&quot;Orders&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>758bf90b-8ef5-4827-9bfc-a5cbe3202c54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page-tabs__tab page-tabs__tab--selected</value>
+      <webElementGuid>dfb71428-f1e1-406b-9a6b-9fbd00b79998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Orders
+                </value>
+      <webElementGuid>7acefc69-9b38-47e6-a2cb-9d5ad104768d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a-page&quot;)/section[@class=&quot;your-orders-content-container aok-relative js-yo-container&quot;]/div[@class=&quot;your-orders-content-container__content js-yo-main-content&quot;]/div[@class=&quot;a-section a-spacing-medium page-tabs&quot;]/ul[1]/li[@class=&quot;page-tabs__tab page-tabs__tab--selected&quot;]</value>
+      <webElementGuid>1bb41b61-0fe0-4b54-b175-f97e90ba751b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a-page']/section/div/div[3]/ul/li</value>
+      <webElementGuid>4900b67f-307f-446c-b8ab-3ad1a37733b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Orders'])[3]/following::li[1]</value>
+      <webElementGuid>286ddbb7-3640-40f9-8fc2-2f0bac927384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Orders'])[2]/following::li[1]</value>
+      <webElementGuid>513be8e5-e235-43eb-ba0f-6c9b8475ffa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy Again'])[2]/preceding::li[1]</value>
+      <webElementGuid>9a092c7b-32ac-4497-a0ae-c6b3ba7ba418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Yet Shipped'])[1]/preceding::li[2]</value>
+      <webElementGuid>277db8e8-d9b0-4746-8d0e-c3036762a48c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div[3]/ul/li</value>
+      <webElementGuid>8a1726d7-e445-4e30-b11e-876bcb04659a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '
+                    Orders
+                ' or . = '
+                    Orders
+                ')]</value>
+      <webElementGuid>2291fe4c-d2af-48cb-9bb2-aa1ce0f0ffbb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

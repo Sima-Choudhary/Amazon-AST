@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>2fb621fa-14cd-4fbb-a817-f9ad138130e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Timex Men's Expedition Scout 40mm Watch&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='CardInstancetKuDn3_KJv_UMnt5EGp_TQ']/div[2]/div/div/a/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Timex Men's Expedition Scout 40mm Watch&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ece9f779-17b5-49f0-8eab-20537e5174df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Timex Men's Expedition Scout 40mm Watch</value>
+      <webElementGuid>28778471-06f5-4be2-9607-2eb191b5cef5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://m.media-amazon.com/images/I/61iEiiJdITL._AC_SY220_.jpg</value>
+      <webElementGuid>7bb2df9f-6b3b-48e0-91e5-64c33ff96b41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-a-hires</name>
+      <type>Main</type>
+      <value>https://m.media-amazon.com/images/I/61iEiiJdITL._AC_SY220_.jpg</value>
+      <webElementGuid>4c5c3499-3fb0-4cb7-adee-44af0273fdf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CardInstancetKuDn3_KJv_UMnt5EGp_TQ&quot;)/div[@class=&quot;a-cardui-body _quad-multi-asin-card-v2_fluid_fluidCardBody__3TzJ4 _quad-multi-asin-card-v2_style_cardBodyHasFooter__1l9jS&quot;]/div[@class=&quot;a-section a-spacing-base aok-clearfix _quad-multi-asin-card-v2_style_quadrantContainer__1hEF5&quot;]/div[@class=&quot;a-section a-spacing-none aok-float-left aok-relative _quad-multi-asin-card-v2_style_quadrant__3xH-V _quad-multi-asin-card-v2_style_topLeftQuadrant__yF7Ht&quot;]/a[@class=&quot;a-spacing-none a-link-normal _quad-multi-asin-card-v2_style_linkContainer__1pWUv a-text-normal&quot;]/div[@class=&quot;a-image-container a-dynamic-image-container _quad-multi-asin-card-v2_style_quadrantImageContainer__2QeUm&quot;]/img[1]</value>
+      <webElementGuid>0aa0c926-7f05-4700-ad73-718790adc743</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='CardInstancetKuDn3_KJv_UMnt5EGp_TQ']/div[2]/div/div/a/div/img</value>
+      <webElementGuid>66537952-eaff-4d64-8ace-01a894e0e3d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt=&quot;Timex Men's Expedition Scout 40mm Watch&quot;]</value>
+      <webElementGuid>4121d68c-e079-4628-ae9c-21382a351cdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a/div/img</value>
+      <webElementGuid>69b5566e-e3fe-4eea-b0fa-d2f8966b798e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = concat(&quot;Timex Men&quot; , &quot;'&quot; , &quot;s Expedition Scout 40mm Watch&quot;) and @src = 'https://m.media-amazon.com/images/I/61iEiiJdITL._AC_SY220_.jpg']</value>
+      <webElementGuid>ae79be89-acea-4a8f-a057-76058a4ef263</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

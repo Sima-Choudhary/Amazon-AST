@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>validate amazon application to search an item.</description>
+   <name>TC_Amazon_Home_001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8a8392ea-7226-458c-ad08-0da4bf57df65</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5cad9cf3-0519-48a7-b61c-b6cd40b50ea4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1c877b9c-a37a-48a8-9319-f41ff6e237c3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5cad9cf3-0519-48a7-b61c-b6cd40b50ea4</id>
+      <masked>false</masked>
+      <name>Category</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1c877b9c-a37a-48a8-9319-f41ff6e237c3</id>
+      <masked>false</masked>
+      <name>SearchItem</name>
+   </variable>
+</TestCaseEntity>

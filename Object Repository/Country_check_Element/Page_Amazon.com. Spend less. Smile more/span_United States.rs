@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_United States</name>
+   <tag></tag>
+   <elementGuidId>9db4e25d-a588-4127-8bdc-4f36d63fe377</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='icp-touch-link-country']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#icp-touch-link-country > span.icp-color-base</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Choose a country/region for shopping. The current selection is United States.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6880b358-f257-4869-9fe1-1b73db8eba76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icp-color-base</value>
+      <webElementGuid>c3122180-f6af-4057-ba1c-8634cba04b3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>United States</value>
+      <webElementGuid>b6bcf422-9562-48d7-a446-927b54fed70c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;icp-touch-link-country&quot;)/span[@class=&quot;icp-color-base&quot;]</value>
+      <webElementGuid>9cb7c6fa-7448-481f-9768-8fc841e0f6bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='icp-touch-link-country']/span[2]</value>
+      <webElementGuid>802b4aec-cbc3-46c7-b9b0-b4bfde4fd147</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USD - U.S. Dollar'])[1]/following::span[2]</value>
+      <webElementGuid>5eff004a-04ce-48e3-8179-d39f0d28bb34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$'])[1]/following::span[3]</value>
+      <webElementGuid>1e81236b-db0f-4c7b-83ce-10164d9ec88d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amazon Music'])[1]/preceding::span[1]</value>
+      <webElementGuid>204d6863-bd39-4e0c-a982-11d35aa1fae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stream millionsof songs'])[1]/preceding::span[1]</value>
+      <webElementGuid>8e77e8da-229e-4c50-9e22-7f9be56a802a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='United States']/parent::*</value>
+      <webElementGuid>afa2c28f-a515-434c-abd3-c56d58009a6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/div/a[3]/span[2]</value>
+      <webElementGuid>a095ecb7-1420-43af-bbb9-ea855e1bcccb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'United States' or . = 'United States')]</value>
+      <webElementGuid>d1a08c06-ae22-4fc5-9346-9cd01de2962c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

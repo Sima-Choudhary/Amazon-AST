@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cancelled Orders</name>
+   <tag></tag>
+   <elementGuidId>6c5e0536-ca66-48a4-83b6-5630f7c60990</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a-page']/section/div/div[3]/ul/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Cancelled Orders&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>342f6b8a-d9f0-46d0-a7d2-20ba99dd08ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-link-normal</value>
+      <webElementGuid>d43c794d-b737-4b04-aa56-3aacaa839add</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/gp/your-account/order-history?ref_=ppx_yo2ov_dt_b_tb_cancel&amp;orderFilter=cancelled</value>
+      <webElementGuid>f2b53302-df9a-4283-8e7a-c6003de0593f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cancelled Orders</value>
+      <webElementGuid>734d196c-d710-4169-a12b-74bc15f1af0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a-page&quot;)/section[@class=&quot;your-orders-content-container aok-relative js-yo-container&quot;]/div[@class=&quot;your-orders-content-container__content js-yo-main-content&quot;]/div[@class=&quot;a-section a-spacing-medium page-tabs&quot;]/ul[1]/li[@class=&quot;page-tabs__tab&quot;]/a[@class=&quot;a-link-normal&quot;]</value>
+      <webElementGuid>b0609b62-7340-449f-8110-788d956d0630</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a-page']/section/div/div[3]/ul/li[6]/a</value>
+      <webElementGuid>5317d788-93ec-4df4-9240-536b6873b088</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cancelled Orders')]</value>
+      <webElementGuid>a15e1132-ee26-431b-a4e8-80db712a67f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amazon Pay'])[1]/following::a[1]</value>
+      <webElementGuid>8b44bf8b-4dec-4664-89d2-b2b489455d3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Digital Orders'])[1]/following::a[2]</value>
+      <webElementGuid>7cb32ded-0dfa-4408-8296-a7ad72efbee5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='past 3 months'])[2]/preceding::a[1]</value>
+      <webElementGuid>c7798326-4dc7-4a88-8c45-31995aa7a5a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cancelled Orders']/parent::*</value>
+      <webElementGuid>30d42df0-2805-4d24-9e96-ac32a1ca90cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/gp/your-account/order-history?ref_=ppx_yo2ov_dt_b_tb_cancel&amp;orderFilter=cancelled')]</value>
+      <webElementGuid>ea0f4eb0-0c74-4018-96dc-c9f16568f972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div[3]/ul/li[6]/a</value>
+      <webElementGuid>ea698f07-46e2-464a-85b3-e56c8a7428d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/gp/your-account/order-history?ref_=ppx_yo2ov_dt_b_tb_cancel&amp;orderFilter=cancelled' and (text() = 'Cancelled Orders' or . = 'Cancelled Orders')]</value>
+      <webElementGuid>8d44a097-3748-44b2-988a-a6ae9e4d87f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Amazon application for the list of countries in the footer.</description>
+   <name>TC_Amazon_Home_005</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8a585a17-166b-4d1e-8802-0230b034729b</testCaseGuid>
+</TestCaseEntity>

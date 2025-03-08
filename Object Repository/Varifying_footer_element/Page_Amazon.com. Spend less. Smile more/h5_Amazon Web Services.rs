@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_Amazon Web Services</name>
+   <tag></tag>
+   <elementGuidId>e80ef633-a088-4fd4-8e86-dd9f95b7f691</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navFooter']/div[4]/div/ul[2]/li[5]/a/h5</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Amazon Web Services Scalable Cloud Computing Services&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>02a04e7e-b2c1-42eb-9f3a-38a542bc1fbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navFooterDescItem_heading</value>
+      <webElementGuid>e59a7a8c-a821-4a8f-b92d-88740f3aa257</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Amazon Web Services</value>
+      <webElementGuid>304c41fc-55e1-406c-a53e-4dc499117765</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navFooter&quot;)/div[@class=&quot;navFooterLine navFooterLinkLine navFooterDescLine&quot;]/div[@class=&quot;navFooterMoreOnAmazon navFooterMoreOnAmazonWrapper&quot;]/ul[2]/li[@class=&quot;navFooterDescItem&quot;]/a[@class=&quot;nav_a&quot;]/h5[@class=&quot;navFooterDescItem_heading&quot;]</value>
+      <webElementGuid>3fc6b89f-1bdf-485e-bada-854c44469b4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navFooter']/div[4]/div/ul[2]/li[5]/a/h5</value>
+      <webElementGuid>694cbe35-55e0-45de-82e5-ef300a724746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ship OrdersInternationally'])[1]/following::h5[1]</value>
+      <webElementGuid>4c4a057c-1a9b-444a-af5e-2a7e7fc772b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AmazonGlobal'])[1]/following::h5[1]</value>
+      <webElementGuid>24e611dd-bee5-4935-8178-c42e61b81913</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scalable CloudComputing Services'])[1]/preceding::h5[1]</value>
+      <webElementGuid>13dc6e5f-5c2c-4fc2-829f-cdb720222fd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Audible'])[1]/preceding::h5[1]</value>
+      <webElementGuid>dcfc2865-b308-4ca6-9ad8-f426166d79a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Amazon Web Services']/parent::*</value>
+      <webElementGuid>8b5cec55-b0f7-4ab7-9113-89d742877b97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li[5]/a/h5</value>
+      <webElementGuid>d0d56a5f-5af5-4165-a96e-e11cbe38b7c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Amazon Web Services' or . = 'Amazon Web Services')]</value>
+      <webElementGuid>668654f8-102e-49fa-b2c3-66e211791d91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

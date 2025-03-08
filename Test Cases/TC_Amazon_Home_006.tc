@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Amazon application for the logo present on the homepage.</description>
+   <name>TC_Amazon_Home_006</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f9153a24-c693-4929-97c6-73ce79ff5ea0</testCaseGuid>
+</TestCaseEntity>

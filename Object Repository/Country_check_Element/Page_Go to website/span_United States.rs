@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_United States</name>
+   <tag></tag>
+   <elementGuidId>84bfe832-8a61-4263-a130-7d5b4cec9d48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='icp-dropdown']/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-button-text.a-declarative</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>span >> internal:has-text=&quot;United States Australia Belgium (Belgique) Brazil (Brasil) Canada China (中国) Egy&quot;i >> span >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b7f25bf3-7c24-42e6-88bc-7c5e0ae5f03f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-button-text a-declarative</value>
+      <webElementGuid>3fa0297f-f26e-48df-8c89-3399f2adab83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-csa-c-func-deps</name>
+      <type>Main</type>
+      <value>aui-da-a-dropdown-button</value>
+      <webElementGuid>90432cad-f716-4e79-819f-fb1c32cf5155</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-csa-c-type</name>
+      <type>Main</type>
+      <value>widget</value>
+      <webElementGuid>7f23246b-88c8-43c7-ad28-501d7562b35c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-csa-interaction-events</name>
+      <type>Main</type>
+      <value>click</value>
+      <webElementGuid>5bc31129-78d5-4bef-8301-97f08175036d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action</name>
+      <type>Main</type>
+      <value>a-dropdown-button</value>
+      <webElementGuid>7746ec76-55ad-4c12-b28f-b02da465de85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4d7350b6-61d3-432c-a451-abefce267fe7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-csa-c-id</name>
+      <type>Main</type>
+      <value>xtvfus-9qufdb-8gen1e-txhwip</value>
+      <webElementGuid>23f30dd7-efc0-4f80-bc37-179e993f4aa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    United States
+                            </value>
+      <webElementGuid>eee6ee5e-8005-4c50-b678-08dcf578eb53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a-page&quot;)/div[@class=&quot;a-container&quot;]/div[@class=&quot;a-row a-spacing-extra-large a-spacing-top-base a-ws-row&quot;]/div[@class=&quot;a-column a-span12 a-ws-span10 a-ws-spacing-none&quot;]/div[@class=&quot;a-row a-ws-row&quot;]/div[@class=&quot;a-column a-span12 a-ws-span7&quot;]/span[@class=&quot;a-dropdown-container&quot;]/span[@id=&quot;icp-dropdown&quot;]/span[@class=&quot;a-button-inner&quot;]/span[@class=&quot;a-button-text a-declarative&quot;]</value>
+      <webElementGuid>026f1165-776c-450d-937c-32e73f87fe6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='icp-dropdown']/span/span</value>
+      <webElementGuid>ec715e16-eedf-4b5a-8ae8-b42fa2ca33be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select your preferred country/region website:'])[1]/following::span[4]</value>
+      <webElementGuid>d60ae5fe-20f2-4c33-8154-557e8cccdffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Website (Country/Region)'])[1]/following::span[5]</value>
+      <webElementGuid>359242a0-fc94-4c19-8f87-f44527cc965f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span/span</value>
+      <webElementGuid>6504950f-6055-4f5c-9676-2102490f01ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                                    United States
+                            ' or . = '
+                                    United States
+                            ')]</value>
+      <webElementGuid>8c528e08-a1a7-45d4-af3b-de05c997f03b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
