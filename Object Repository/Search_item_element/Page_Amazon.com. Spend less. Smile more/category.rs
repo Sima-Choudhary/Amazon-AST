@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>//select[@id='searchDropdownBox']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

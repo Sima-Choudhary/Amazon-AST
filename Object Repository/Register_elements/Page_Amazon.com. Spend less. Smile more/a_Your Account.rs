@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='navbar-backup-backup']/div/div[3]/a</value>
+         <value>//a[contains(text(),'Your Account')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

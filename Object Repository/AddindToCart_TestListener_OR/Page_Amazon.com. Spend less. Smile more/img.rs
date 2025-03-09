@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='CardInstanceJczJZz--OA5x-8x7kEXvjA']/div[2]/div/div[2]/a/div/img</value>
+         <value>//div[2]/a/div/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

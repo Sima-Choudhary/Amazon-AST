@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='46186a27-30ac-4b83-bba1-2c4c929ca235']/div/div/span/div/div/div/span/a/div/img</value>
+         <value>//div[19]/div/div/span/div/div/div/span/a/div/img</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
