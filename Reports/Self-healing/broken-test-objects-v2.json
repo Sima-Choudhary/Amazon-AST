@@ -29,6 +29,76 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/validating_footer_link_006_OR/Page_Amazon.com. Spend less. Smile more/a_Conditions of Use",
+      "brokenLocator": "//div[@id\u003d\u0027a-page\u0027]/footer/div[2]/ul/li/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Conditions of Use\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/validating_footer_link_006_OR/Page_Amazon.com. Spend less. Smile more/a_Conditions of Use_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/validating_footer_link_006_OR/Page_Amazon.com. Spend less. Smile more/a_Privacy Notice",
+      "brokenLocator": "//div[@id\u003d\u0027a-page\u0027]/footer/div[2]/ul/li[2]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Privacy Notice\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/validating_footer_link_006_OR/Page_Amazon.com. Spend less. Smile more/a_Privacy Notice_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/validating_footer_link_006_OR/Page_Amazon.com. Spend less. Smile more/a_Interest-Based Ads",
+      "brokenLocator": "//div[@id\u003d\u0027a-page\u0027]/footer/div[2]/ul/li[3]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Privacy Notice\u0027])[1]/following::a[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/validating_footer_link_006_OR/Page_Amazon.com. Spend less. Smile more/a_Interest-Based Ads_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/validating_footer_link_006_OR/Page_Amazon.com. Spend less. Smile more/li_1996-2024, Amazon.com, Inc. or its affiliates",
+      "brokenLocator": "//li[@id\u003d\u0027copyright-text\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Privacy Notice\u0027])[1]/following::li[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/validating_footer_link_006_OR/Page_Amazon.com. Spend less. Smile more/li_1996-2024, Amazon.com, Inc. or its affiliates_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/validating_footer_link_006_OR/Page_Amazon.com. Spend less. Smile more/img",
+      "brokenLocator": "//a[@id\u003d\u0027nav-bb-footer-logo\u0027]/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a/img",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/validating_footer_link_006_OR/Page_Amazon.com. Spend less. Smile more/img_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Todays_deal_008_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account",
+      "brokenLocator": "//div[@id\u003d\u0027navbar-backup-backup\u0027]/div/div[3]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Your Account\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Todays_deal_008_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Built_in_keyword_009_OR/Page_Amazon.com. Spend less. Smile more/a_Computers  Accessories",
+      "brokenLocator": "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",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027hmenu-content\u0027]/ul[6]/li[7]/a",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Built_in_keyword_009_OR/Page_Amazon.com. Spend less. Smile more/a_Computers  Accessories_idRelative.png"
     }
   ]
 }
