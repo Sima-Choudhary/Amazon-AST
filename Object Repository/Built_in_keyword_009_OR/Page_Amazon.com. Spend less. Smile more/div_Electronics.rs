@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Electronics</name>
+   <tag></tag>
+   <elementGuidId>70c0c67c-9de6-4765-89e3-1c33b4ea4f44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hmenu-content']/ul/li[8]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(8) > a.hmenu-item > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Electronics&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>268780e6-e989-4199-b750-4294c659ebfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Electronics</value>
+      <webElementGuid>85fac7ac-c68c-4ec5-abb9-68bff0a3aa1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hmenu-content&quot;)/ul[@class=&quot;hmenu hmenu-visible&quot;]/li[8]/a[@class=&quot;hmenu-item&quot;]/div[1]</value>
+      <webElementGuid>4f88cc93-f0e5-45f5-9d3f-78289cba84b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hmenu-content']/ul/li[8]/a/div</value>
+      <webElementGuid>b1d5c095-1c30-4ec1-81eb-89727af4f708</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop by Department'])[1]/following::div[1]</value>
+      <webElementGuid>dc849a5f-16c6-4de0-a53d-2edba6671035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amazon Appstore'])[1]/following::div[2]</value>
+      <webElementGuid>2cd98e13-0c38-4ede-8e47-840efd8e91ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Computers'])[2]/preceding::div[1]</value>
+      <webElementGuid>41a61e28-dee6-458f-818e-76fb4c861fd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Smart Home'])[2]/preceding::div[2]</value>
+      <webElementGuid>9aa37662-1ff6-4466-9c6b-ccec573bb030</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/a/div</value>
+      <webElementGuid>66b30aea-32e0-4920-b876-cea6ee4f1af2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Electronics' or . = 'Electronics')]</value>
+      <webElementGuid>34a712d2-1f6a-4621-ade9-afad4d979703</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

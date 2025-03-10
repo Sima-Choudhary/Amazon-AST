@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_- USD - US Dollar (Default)</name>
+   <tag></tag>
+   <elementGuidId>1e036b38-477e-4173-9210-390043716461</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='icp-currency-dropdown-selected-item-prompt']/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-button-text.a-declarative</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>span >> internal:has-text=&quot;$ - USD - US Dollar (Default)&quot;i >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d8711452-d13e-4b90-a31c-886a125cc032</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-button-text a-declarative</value>
+      <webElementGuid>44663ad2-00e0-45ed-97f0-3f246b41084e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-csa-c-func-deps</name>
+      <type>Main</type>
+      <value>aui-da-a-dropdown-button</value>
+      <webElementGuid>2e9cee11-c8e0-4c12-b4e4-183b95e1188b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-csa-c-type</name>
+      <type>Main</type>
+      <value>widget</value>
+      <webElementGuid>f09150f2-32b6-4a30-b00f-01cc40879477</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-csa-interaction-events</name>
+      <type>Main</type>
+      <value>click</value>
+      <webElementGuid>c2c8a121-6d1b-4146-9458-505fa419d108</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action</name>
+      <type>Main</type>
+      <value>a-dropdown-button</value>
+      <webElementGuid>0251a2e7-c490-4d71-b3d2-edcfd1c0f298</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>eca5c9f8-ca12-4715-badc-0ca10a092712</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-csa-c-id</name>
+      <type>Main</type>
+      <value>x092lq-f56q1n-w55260-tvg0l6</value>
+      <webElementGuid>f0a61017-95d2-446c-9a12-9910b6a99f6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                $ - USD - US Dollar (Default)
+            </value>
+      <webElementGuid>1dd0c27c-fda8-4be3-9db8-e22a348a7047</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;icp-currency-dropdown-selected-item-prompt&quot;)/span[@class=&quot;a-button-inner&quot;]/span[@class=&quot;a-button-text a-declarative&quot;]</value>
+      <webElementGuid>5072e362-3e99-4751-bd7d-f6c25073d04a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='icp-currency-dropdown-selected-item-prompt']/span/span</value>
+      <webElementGuid>86f6fac3-8fda-43da-b89a-4cba83e9176c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select the currency you want to shop with.'])[1]/following::span[4]</value>
+      <webElementGuid>d78e486e-ad89-4715-8629-71191152eab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency Settings'])[1]/following::span[5]</value>
+      <webElementGuid>682b9f46-0d72-43ad-9d93-65abcc54e915</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::span[3]</value>
+      <webElementGuid>cec5ec09-8aa1-4044-b0c9-09ee83d7cc65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span/span</value>
+      <webElementGuid>bf809589-5ddc-4636-86e2-2b2b086b4cff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                $ - USD - US Dollar (Default)
+            ' or . = '
+                $ - USD - US Dollar (Default)
+            ')]</value>
+      <webElementGuid>cbf346e5-9907-4d6a-a662-1cdb74ac5fc2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

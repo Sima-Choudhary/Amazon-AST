@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Clear Filters</name>
+   <tag></tag>
+   <elementGuidId>d9ef1156-f3fb-46f7-9dcc-bb66ace1b9dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='DealsGridScrollAnchor']/div[2]/div/button[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.a-size-base.a-link-normal</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Clear Filters&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4314a834-a630-40e2-bab6-627024a872a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>e3cacb2c-baee-48b8-bd27-8a56258e7525</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-size-base a-link-normal</value>
+      <webElementGuid>7f6dbbdb-9edd-4d72-ab57-4d9515a82ff3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>735a2da1-f309-47d9-9f2f-a675af6b4ee4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Clear Filters</value>
+      <webElementGuid>b6879c7e-5e62-4657-b2da-daf2c3f5bd47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DealsGridScrollAnchor&quot;)/div[@class=&quot;DesktopRefinements-module__root_bhKhpQRjma_FcGUry8RQ DesktopDiscountAsinGrid-module__refinements_YB5V1nuIh3E8iHj37aVv&quot;]/div[@class=&quot;RefinementsBar-module__root_IeGRESKdTizHZsbDATnM&quot;]/button[@class=&quot;RefinementsBar-module__clear_u4dXFBsNBwujgE94VoE4&quot;]/a[@class=&quot;a-size-base a-link-normal&quot;]</value>
+      <webElementGuid>0b292d55-97f3-4346-beb5-85b90c11fc09</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='DealsGridScrollAnchor']/div[2]/div/button[2]/a</value>
+      <webElementGuid>37ad8c7a-213f-4cc3-a231-4fc2ddbd689e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Clear Filters')]</value>
+      <webElementGuid>2cba29af-fdd0-4f3b-aacc-432dbabd13bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amazon Devices &amp; Accessories'])[2]/following::a[1]</value>
+      <webElementGuid>c5643048-fedc-46ea-bf9d-36512f98fcd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtered by'])[1]/following::a[1]</value>
+      <webElementGuid>9c8520e8-c5f8-4fb3-b85f-be72e47dc39f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Department'])[1]/preceding::a[1]</value>
+      <webElementGuid>1ed3cc1e-5101-4ded-9c4c-631663c38366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Any Category'])[1]/preceding::a[1]</value>
+      <webElementGuid>0d6e7bec-b069-4c94-abe6-b576cb552cfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Clear Filters']/parent::*</value>
+      <webElementGuid>28e42b27-8fed-4f77-b351-60fcc6e80f48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:void(0)')]</value>
+      <webElementGuid>7c0427eb-d61b-4425-925d-91612ff348a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/a</value>
+      <webElementGuid>b437dbd9-d81c-49c2-8242-852fc0ef1599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and (text() = 'Clear Filters' or . = 'Clear Filters')]</value>
+      <webElementGuid>7a2b3bed-5815-4974-aa47-b6a31d869ed8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

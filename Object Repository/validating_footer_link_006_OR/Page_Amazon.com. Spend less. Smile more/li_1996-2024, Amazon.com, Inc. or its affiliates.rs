@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_1996-2024, Amazon.com, Inc. or its affiliates</name>
+   <tag></tag>
+   <elementGuidId>90775d1e-d96e-4bad-a3ab-15e8d8d1c31a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='copyright-text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#copyright-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;© 1996-2024, Amazon.com, Inc. or its affiliates&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>1e1fb543-674d-40a2-b0c8-873fee67421d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>copyright-text</value>
+      <webElementGuid>3ab14ca5-606f-424d-b4d5-7268769b158b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>© 1996-2024, Amazon.com, Inc. or its affiliates</value>
+      <webElementGuid>2ea0c46f-e926-4dde-8f7a-99b43a0cde9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;copyright-text&quot;)</value>
+      <webElementGuid>01b8dbec-7559-409b-9d15-af1731e9cb51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='copyright-text']</value>
+      <webElementGuid>de2b097f-0f12-4610-8e9d-d28386eaf55a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a-page']/footer/div[2]/ul/li[4]</value>
+      <webElementGuid>7ada0b2b-765f-4f2f-a6f6-b91a4030f3b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interest-Based Ads'])[1]/following::li[1]</value>
+      <webElementGuid>d1b76530-39a5-492f-859b-62acf0255ac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Notice'])[1]/following::li[2]</value>
+      <webElementGuid>5bc7e98d-32a2-4c9f-b0af-50c23d5b7729</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='© 1996-2024, Amazon.com, Inc. or its affiliates']/parent::*</value>
+      <webElementGuid>459cb74f-8c33-46ab-a761-2d2a8dc72d9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]</value>
+      <webElementGuid>cd349de4-4e19-4bae-916f-ea99dd66850f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'copyright-text' and (text() = '© 1996-2024, Amazon.com, Inc. or its affiliates' or . = '© 1996-2024, Amazon.com, Inc. or its affiliates')]</value>
+      <webElementGuid>10af6cd7-1504-4004-abc2-6fcefe311e83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

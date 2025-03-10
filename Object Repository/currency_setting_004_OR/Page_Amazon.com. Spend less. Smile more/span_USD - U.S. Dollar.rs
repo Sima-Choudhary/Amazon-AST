@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_USD - U.S. Dollar</name>
+   <tag></tag>
+   <elementGuidId>f7848ab5-bddf-4be3-87b2-7c72d97b764c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='icp-touch-link-cop']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#icp-touch-link-cop > span.icp-color-base</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;$ USD - U.S. Dollar&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cbf69886-d951-4127-b4f9-52f096155ec5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icp-color-base</value>
+      <webElementGuid>5e5cb41e-b51a-4f4f-9fd6-fc57bb3f21d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>USD - U.S. Dollar</value>
+      <webElementGuid>56be3257-7e8d-44c9-83b1-ab29ddeb5160</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;icp-touch-link-cop&quot;)/span[@class=&quot;icp-color-base&quot;]</value>
+      <webElementGuid>c082f923-c591-4386-ab36-3a3dbe7b8022</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='icp-touch-link-cop']/span[2]</value>
+      <webElementGuid>616b1758-a652-4804-ac1e-dd14556cbe7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$'])[3]/following::span[1]</value>
+      <webElementGuid>a1a6b1df-e913-40c3-87f8-75cda4f820a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[3]/following::span[3]</value>
+      <webElementGuid>99e6847a-8b7d-4130-8c06-9a2d2d11e1e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='United States'])[1]/preceding::span[2]</value>
+      <webElementGuid>30f15ff9-7477-49ca-a765-f954df27a0f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amazon Music'])[1]/preceding::span[3]</value>
+      <webElementGuid>4f018e01-2e66-4d53-80bc-5c25a21ce775</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='USD - U.S. Dollar']/parent::*</value>
+      <webElementGuid>44da901e-0cfc-4b74-8291-ed9587c5b512</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/span[2]</value>
+      <webElementGuid>aef4428a-5997-40bb-b5aa-6c0717d492f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'USD - U.S. Dollar' or . = 'USD - U.S. Dollar')]</value>
+      <webElementGuid>30afa600-2522-4477-afac-eb0f4d7f0e2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
