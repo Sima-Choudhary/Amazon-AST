@@ -1,3 +1,34 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/login_003_OR/Page_Your Account/span_Hello, sign in",
+      "brokenLocator": "//span[@id\u003d\u0027nav-link-accountList-nav-line-1\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027EN\u0027])[1]/following::span[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/login_003_OR/Page_Your Account/span_Hello, sign in_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Hello, sign in  Account  Lists",
+      "brokenLocator": "//a[@id\u003d\u0027nav-link-accountList\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Hello, sign in  Account  Lists_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/login_003_OR/Page_Amazon Sign-In/input_Email or mobile phone number_email",
+      "brokenLocator": "//input[@id\u003d\u0027ap_email\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    }
+  ]
 }
