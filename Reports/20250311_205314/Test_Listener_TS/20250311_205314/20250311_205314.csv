@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test_Listener_TS,Firefox 136.0,,,11-03-2025 20:53:18,11-03-2025 20:53:44,25.590s,PASSED
+,,,,,,,
+Test Cases/TestListener,Firefox 136.0,,,11-03-2025 20:53:25,11-03-2025 20:53:44,19.193s,PASSED
+Start listener action : sampleBeforeTestCase,Firefox 136.0,,,11-03-2025 20:53:25,11-03-2025 20:53:36,11.618s,PASSED
+"click(findTestObject(""Object Repository/Order_as_Gift/Page_Your Account/span_Orders_nav-cart-icon nav-sprite""))",Firefox 136.0,,,11-03-2025 20:53:36,11-03-2025 20:53:40,3.186s,PASSED
+"click(findTestObject(""Object Repository/Order_as_Gift/Page_Amazon.com Shopping Cart/i_In Stock_a-icon a-icon-checkbox""))",Firefox 136.0,,,11-03-2025 20:53:40,11-03-2025 20:53:41,1.590s,PASSED
+Start listener action : sampleAfterTestCase,Firefox 136.0,,,11-03-2025 20:53:41,11-03-2025 20:53:44,2.716s,ERROR

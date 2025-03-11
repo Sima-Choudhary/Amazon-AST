@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test_Listener_TS,Chrome 134.0.6998.36,,,11-03-2025 21:11:54,11-03-2025 21:12:47,52.782s,FAILED
+,,,,,,,
+Test Cases/TestListener,Chrome 134.0.6998.36,,,11-03-2025 21:12:01,11-03-2025 21:12:47,45.299s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 134.0.6998.36,,,11-03-2025 21:12:01,11-03-2025 21:12:44,42.957s,ERROR
+"click(findTestObject(""Object Repository/Order_as_Gift/Page_Your Account/span_Orders_nav-cart-icon nav-sprite""))",Chrome 134.0.6998.36,,,11-03-2025 21:12:44,11-03-2025 21:12:46,1.092s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 134.0.6998.36,,,11-03-2025 21:12:46,11-03-2025 21:12:47,1.128s,ERROR

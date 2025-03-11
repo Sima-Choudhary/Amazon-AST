@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test_Listener_TS" time="25.59" tests="1" failures="0" errors="0">
+   <testsuite name="Test_Listener_TS" tests="1" failures="0" errors="0" time="25.59" skipped="0" timestamp="11-03-2025T20:53:18" hostname="simae - sima_choudhary" id="Test Suites/Test_Listener_TS">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\simae\\git\\Amazon-AST\\Reports\\20250311_205314\\Test_Listener_TS\\20250311_205314"/>
+         <property name="logFiles" value="C:\\Users\\simae\\git\\Amazon-AST\\Reports\\20250311_205314\\Test_Listener_TS\\20250311_205314\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="simae - sima_choudhary"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="10.1.0.223"/>
+         <property name="browser" value="Firefox 136.0"/>
+         <property name="hostAddress" value="192.168.79.186"/>
+         <property name="sessionId" value="4e8b3727-19a0-49bb-b53a-ab838d9a19e2"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/TestListener" time="19.193" classname="Test Cases/TestListener" status="PASSED">
+         <system-out><![CDATA[11-03-2025T20:53:25 - [TEST_CASE][PASSED] - Test Cases/TestListener: Test Cases/TestListener
+
+11-03-2025T20:53:25 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Object: 'Object Repository/Order_as_Gift/Page_Amazon Sign-In/input_Enter your password_signInSubmit' is clicked on
+
+11-03-2025T20:53:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Order_as_Gift/Page_Amazon.com. Spend less. Smile more/a_Your Account")): Object: 'Object Repository/Order_as_Gift/Page_Amazon.com. Spend less. Smile more/a_Your Account' is clicked on
+
+11-03-2025T20:53:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Order_as_Gift/Page_Amazon.com. Spend less. Smile more/a_Your Account' is clicked on
+
+11-03-2025T20:53:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Order_as_Gift/Page_Your Account/span_Hello, sign in")): Object: 'Object Repository/Order_as_Gift/Page_Your Account/span_Hello, sign in' is clicked on
+
+11-03-2025T20:53:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Order_as_Gift/Page_Your Account/span_Hello, sign in' is clicked on
+
+11-03-2025T20:53:28 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Order_as_Gift/Page_Amazon Sign-In/input_Email or mobile phone number_email"), "+918582912274"): Text '+918582912274' is set on object 'Object Repository/Order_as_Gift/Page_Amazon Sign-In/input_Email or mobile phone number_email'
+
+11-03-2025T20:53:29 - [MESSAGE][PASSED] - Text '+918582912274' is set on object 'Object Repository/Order_as_Gift/Page_Amazon Sign-In/input_Email or mobile phone number_email'
+
+11-03-2025T20:53:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Order_as_Gift/Page_Amazon Sign-In/input_Wrong or Invalid email address or mob_77ed40")): Object: 'Object Repository/Order_as_Gift/Page_Amazon Sign-In/input_Wrong or Invalid email address or mob_77ed40' is clicked on
+
+11-03-2025T20:53:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Order_as_Gift/Page_Amazon Sign-In/input_Wrong or Invalid email address or mob_77ed40' is clicked on
+
+11-03-2025T20:53:32 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Order_as_Gift/Page_Amazon Sign-In/input_Forgot password_password"), "CRqjWPeblyV95o9fznV5pg=="): Text ****** has been set on object 'Object Repository/Order_as_Gift/Page_Amazon Sign-In/input_Forgot password_password'
+
+11-03-2025T20:53:33 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Order_as_Gift/Page_Amazon Sign-In/input_Forgot password_password'
+
+11-03-2025T20:53:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Order_as_Gift/Page_Amazon Sign-In/input_Enter your password_signInSubmit")): Object: 'Object Repository/Order_as_Gift/Page_Amazon Sign-In/input_Enter your password_signInSubmit' is clicked on
+
+11-03-2025T20:53:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Order_as_Gift/Page_Amazon Sign-In/input_Enter your password_signInSubmit' is clicked on
+
+11-03-2025T20:53:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Order_as_Gift/Page_Your Account/span_Orders_nav-cart-icon nav-sprite")): Object: 'Object Repository/Order_as_Gift/Page_Your Account/span_Orders_nav-cart-icon nav-sprite' is clicked on
+
+11-03-2025T20:53:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Order_as_Gift/Page_Your Account/span_Orders_nav-cart-icon nav-sprite' is clicked on
+
+11-03-2025T20:53:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Order_as_Gift/Page_Amazon.com Shopping Cart/i_In Stock_a-icon a-icon-checkbox")): Object: 'Object Repository/Order_as_Gift/Page_Amazon.com Shopping Cart/i_In Stock_a-icon a-icon-checkbox' is clicked on
+
+11-03-2025T20:53:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Order_as_Gift/Page_Amazon.com Shopping Cart/i_In Stock_a-icon a-icon-checkbox' is clicked on
+
+11-03-2025T20:53:41 - [TEST_STEP][ERROR] - Start listener action : sampleAfterTestCase: groovy.lang.MissingPropertyException: No such property: notChecked for class: NewTestListener
+	at NewTestListener.sampleAfterTestCase(NewTestListener.groovy:53)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.context.internal.TestHooker.invokeMethod(TestHooker.java:111)
+	at com.kms.katalon.core.context.internal.TestHooker.lambda$3(TestHooker.java:95)
+	at com.kms.katalon.core.context.internal.TestHooker.invokeContextMethods(TestHooker.java:94)
+	at com.kms.katalon.core.context.internal.TestListenerCollector.lambda$3(TestListenerCollector.java:88)
+	at com.kms.katalon.core.context.internal.TestListenerCollector.handleListenerEvent(TestListenerCollector.java:85)
+	at com.kms.katalon.core.context.internal.ExecutionEventManager.publicEvent(ExecutionEventManager.java:36)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:315)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741706594505.run(TempTestSuite1741706594505.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+
+11-03-2025T20:53:41 - [TEST_STEP][ERROR] - notChecked = verifyElementNotChecked(findTestObject("Object Repository/Order_as_Gift/Page_Amazon.com Shopping Cart/i_In Stock_a-icon a-icon-checkbox"), 0): groovy.lang.MissingPropertyException: No such property: notChecked for class: NewTestListener
+	at NewTestListener.sampleAfterTestCase(NewTestListener.groovy:53)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.context.internal.TestHooker.invokeMethod(TestHooker.java:111)
+	at com.kms.katalon.core.context.internal.TestHooker.lambda$3(TestHooker.java:95)
+	at com.kms.katalon.core.context.internal.TestHooker.invokeContextMethods(TestHooker.java:94)
+	at com.kms.katalon.core.context.internal.TestListenerCollector.lambda$3(TestListenerCollector.java:88)
+	at com.kms.katalon.core.context.internal.TestListenerCollector.handleListenerEvent(TestListenerCollector.java:85)
+	at com.kms.katalon.core.context.internal.ExecutionEventManager.publicEvent(ExecutionEventManager.java:36)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:315)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741706594505.run(TempTestSuite1741706594505.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+
+11-03-2025T20:53:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+11-03-2025T20:53:44 - [MESSAGE][PASSED] - Object 'Object Repository/Order_as_Gift/Page_Amazon.com Shopping Cart/i_In Stock_a-icon a-icon-checkbox' is not checked
+
+11-03-2025T20:53:44 - [MESSAGE][ERROR] - groovy.lang.MissingPropertyException: No such property: notChecked for class: NewTestListener
+	at NewTestListener.sampleAfterTestCase(NewTestListener.groovy:53)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.context.internal.TestHooker.invokeMethod(TestHooker.java:111)
+	at com.kms.katalon.core.context.internal.TestHooker.lambda$3(TestHooker.java:95)
+	at com.kms.katalon.core.context.internal.TestHooker.invokeContextMethods(TestHooker.java:94)
+	at com.kms.katalon.core.context.internal.TestListenerCollector.lambda$3(TestListenerCollector.java:88)
+	at com.kms.katalon.core.context.internal.TestListenerCollector.handleListenerEvent(TestListenerCollector.java:85)
+	at com.kms.katalon.core.context.internal.ExecutionEventManager.publicEvent(ExecutionEventManager.java:36)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:315)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741706594505.run(TempTestSuite1741706594505.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[11-03-2025T20:53:18 - [TEST_SUITE][PASSED] - Test_Listener_TS: Test Cases/TestListener]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

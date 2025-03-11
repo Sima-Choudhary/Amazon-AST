@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test_Listener_TS,,,,11-03-2025 20:50:21,11-03-2025 20:50:23,1.212s,FAILED
+,,,,,,,
+Test Cases/TestListener,,,,11-03-2025 20:50:22,11-03-2025 20:50:23,0.797s,FAILED
+Start listener action : sampleBeforeTestCase,,,,11-03-2025 20:50:22,11-03-2025 20:50:22,0.555s,ERROR
+"click(findTestObject(""Object Repository/Order_as_Gift/Page_Your Account/span_Orders_nav-cart-icon nav-sprite""))",,,,11-03-2025 20:50:22,11-03-2025 20:50:23,0.051s,FAILED
+Start listener action : sampleAfterTestCase,,,,11-03-2025 20:50:23,11-03-2025 20:50:23,0.080s,ERROR
