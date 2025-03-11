@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.amazon.com/')
 
+WebUI.click(findTestObject('login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account'))
+
 WebUI.click(findTestObject('Object Repository/currency_setting_004_OR/Page_Amazon.com. Spend less. Smile more/span_USD - U.S. Dollar'))
 
 WebUI.click(findTestObject('Object Repository/currency_setting_004_OR/Page_Change Language  Currency Settings/span_- USD - US Dollar (Default)'))

@@ -17,29 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://www.amazon.com/')
-
-System.out.println(WebUI.getWindowTitle())
-
-WebUI.click(findTestObject('login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account'))
-
-WebUI.click(findTestObject('Object Repository/Built_in_keyword_009_OR/Page_Amazon.com. Spend less. Smile more/span_All'))
-
-WebUI.click(findTestObject('Object Repository/Built_in_keyword_009_OR/Page_Amazon.com. Spend less. Smile more/div_Electronics'))
-
-System.out.println(WebUI.getWindowIndex())
-
-WebUI.back()
-
-WebUI.navigateToUrl('https://www.gmail.com')
-
-WebUI.delay(5)
-
-WebUI.back()
-
-WebUI.delay(5)
-
-WebUI.closeBrowser()
-

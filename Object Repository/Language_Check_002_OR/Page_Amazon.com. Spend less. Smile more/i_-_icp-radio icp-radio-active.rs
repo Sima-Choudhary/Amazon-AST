@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='nav-flyout-icp-footer-flyout']/div[2]/a/span/i</value>
+         <value>//div[21]/div[2]/a/span/i</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>f53dac26-e3b7-489c-9c39-93218e6255de</webElementGuid>
+      <webElementGuid>97d1f454-b23b-4a60-a42c-d80c9957f3aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>icp-radio icp-radio-active</value>
-      <webElementGuid>47795ccd-be40-4fef-8eb0-d5be4965c756</webElementGuid>
+      <webElementGuid>32394765-79ea-42da-86a3-d234009e196d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;nav-flyout-icp-footer-flyout&quot;)/div[@class=&quot;nav-template nav-flyout-content nav-tpl-itemList&quot;]/a[@class=&quot;nav-link                                    nav-item&quot;]/span[@class=&quot;nav-text&quot;]/i[@class=&quot;icp-radio icp-radio-active&quot;]</value>
-      <webElementGuid>92c172ce-3702-472d-8f4d-b446485e1f33</webElementGuid>
+      <webElementGuid>02d43235-c074-46e6-8e2a-8bb5b30a74e6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='nav-flyout-icp-footer-flyout']/div[2]/a/span/i</value>
-      <webElementGuid>c0a107fe-83f2-4b69-9cd7-844509955124</webElementGuid>
+      <webElementGuid>99692669-3960-4ae1-89b7-4eb2af81452f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[21]/div[2]/a/span/i</value>
-      <webElementGuid>fc369fa0-483b-4779-960a-17c396fe25aa</webElementGuid>
+      <webElementGuid>5e014a0b-a4d4-4fb1-a88e-5ff1e4e59adc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
