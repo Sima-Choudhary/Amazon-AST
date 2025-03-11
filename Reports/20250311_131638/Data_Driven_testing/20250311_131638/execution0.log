@@ -1,0 +1,2910 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-03-11T07:46:43.503454700Z</date>
+  <millis>1741679203503</millis>
+  <nanos>454700</nanos>
+  <sequence>1</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/Data_Driven_testing</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="rerunTestFailImmediately">true</property>
+  <property name="retryCount">0</property>
+  <property name="name">Data_Driven_testing</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/Data_Driven_testing</property>
+</record>
+<record>
+  <date>2025-03-11T07:46:43.620830500Z</date>
+  <millis>1741679203620</millis>
+  <nanos>830500</nanos>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = simae - sima_choudhary</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="hostName">simae - sima_choudhary</property>
+</record>
+<record>
+  <date>2025-03-11T07:46:43.622832700Z</date>
+  <millis>1741679203622</millis>
+  <nanos>832700</nanos>
+  <sequence>5</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Windows 11 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="os">Windows 11 64bit</property>
+</record>
+<record>
+  <date>2025-03-11T07:46:43.623827900Z</date>
+  <millis>1741679203623</millis>
+  <nanos>827900</nanos>
+  <sequence>7</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 192.168.79.186</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="hostAddress">192.168.79.186</property>
+</record>
+<record>
+  <date>2025-03-11T07:46:43.625822400Z</date>
+  <millis>1741679203625</millis>
+  <nanos>822400</nanos>
+  <sequence>9</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 10.1.0.223</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="katalonVersion">10.1.0.223</property>
+</record>
+<record>
+  <date>2025-03-11T07:46:44.234822900Z</date>
+  <millis>1741679204234</millis>
+  <nanos>822900</nanos>
+  <sequence>12</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Data-Driven Testing/TC_Amazon_Home_010</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="remainingRetryCount">0</property>
+  <property name="name">Test Cases/Data-Driven Testing/TC_Amazon_Home_010</property>
+  <property name="description"></property>
+  <property name="iteration">Da vinci code </property>
+  <property name="id">Test Cases/Data-Driven Testing/TC_Amazon_Home_010</property>
+  <property name="source">C:\Users\simae\git\Amazon-AST\Test Cases\Data-Driven Testing\TC_Amazon_Home_010.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+  <property name="currentRetryCount">0</property>
+</record>
+<record>
+  <date>2025-03-11T07:46:44.325648700Z</date>
+  <millis>1741679204325</millis>
+  <nanos>648700</nanos>
+  <sequence>15</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Category = Books</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:46:44.331545Z</date>
+  <millis>1741679204331</millis>
+  <nanos>545000</nanos>
+  <sequence>17</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>SearchItem = Da vinci code </message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:46:44.668249600Z</date>
+  <millis>1741679204668</millis>
+  <nanos>249600</nanos>
+  <sequence>18</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser(&amp;quot;&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2025-03-11T07:46:45.298443300Z</date>
+  <millis>1741679205298</millis>
+  <nanos>443300</nanos>
+  <sequence>21</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Firefox&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:46:45.420740700Z</date>
+  <millis>1741679205420</millis>
+  <nanos>740700</nanos>
+  <sequence>23</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Action delay is set to 0 milliseconds</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:46:49.420433Z</date>
+  <millis>1741679209420</millis>
+  <nanos>433000</nanos>
+  <sequence>25</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>sessionId = 150f8f7b-e6fb-457e-b5d4-e756429ae02a</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="sessionId">150f8f7b-e6fb-457e-b5d4-e756429ae02a</property>
+</record>
+<record>
+  <date>2025-03-11T07:46:49.423431100Z</date>
+  <millis>1741679209423</millis>
+  <nanos>431100</nanos>
+  <sequence>27</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>browser = Firefox 136.0</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="browser">Firefox 136.0</property>
+</record>
+<record>
+  <date>2025-03-11T07:46:49.425437Z</date>
+  <millis>1741679209425</millis>
+  <nanos>437000</nanos>
+  <sequence>29</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>platform = Windows 11</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="platform">Windows 11</property>
+</record>
+<record>
+  <date>2025-03-11T07:46:49.428434100Z</date>
+  <millis>1741679209428</millis>
+  <nanos>434100</nanos>
+  <sequence>31</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>seleniumVersion = 4.22.0</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="seleniumVersion">4.22.0</property>
+</record>
+<record>
+  <date>2025-03-11T07:46:49.432561Z</date>
+  <millis>1741679209432</millis>
+  <nanos>561000</nanos>
+  <sequence>33</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&amp;quot;&amp;quot;, isApplyToDesiredCapabilities=true }</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="proxyInformation">ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }</property>
+</record>
+<record>
+  <date>2025-03-11T07:46:49.549573200Z</date>
+  <millis>1741679209549</millis>
+  <nanos>573200</nanos>
+  <sequence>34</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword.openBrowser</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2025-03-11T07:46:49.550577700Z</date>
+  <millis>1741679209550</millis>
+  <nanos>577700</nanos>
+  <sequence>35</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser(&amp;quot;&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:46:49.551572200Z</date>
+  <millis>1741679209551</millis>
+  <nanos>572200</nanos>
+  <sequence>36</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : navigateToUrl(&amp;quot;www.amazon.com&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">22</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2025-03-11T07:46:51.513266300Z</date>
+  <millis>1741679211513</millis>
+  <nanos>266300</nanos>
+  <sequence>39</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigate to &amp;apos;http://www.amazon.com&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.NavigateToUrlKeyword.navigateToUrl</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2025-03-11T07:46:51.517609Z</date>
+  <millis>1741679211517</millis>
+  <nanos>609000</nanos>
+  <sequence>40</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : navigateToUrl(&amp;quot;www.amazon.com&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:46:51.519117600Z</date>
+  <millis>1741679211519</millis>
+  <nanos>117600</nanos>
+  <sequence>41</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">24</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2025-03-11T07:46:53.868756700Z</date>
+  <millis>1741679213868</millis>
+  <nanos>756700</nanos>
+  <sequence>51</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2025-03-11T07:46:53.872919700Z</date>
+  <millis>1741679213872</millis>
+  <nanos>919700</nanos>
+  <sequence>52</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:46:53.873969800Z</date>
+  <millis>1741679213873</millis>
+  <nanos>969800</nanos>
+  <sequence>53</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : selectOptionByLabel(findTestObject(&amp;quot;Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&amp;quot;), groovy.lang.Category, false)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">26</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2025-03-11T07:46:54.011384700Z</date>
+  <millis>1741679214011</millis>
+  <nanos>384700</nanos>
+  <sequence>57</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - &amp;apos;Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&amp;apos;, ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+</message>
+  <exception>
+    <message>groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)</message>
+    <frame>
+      <class>TC_Amazon_Home_010</class>
+      <method>run</method>
+      <line>26</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>194</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>119</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>448</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>439</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>418</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>410</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>285</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.common.CommonExecutor</class>
+      <method>accessTestCaseMainPhase</method>
+      <line>71</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestSuiteMainPhase</method>
+      <line>160</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>execute</method>
+      <line>107</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>startTestSuite</method>
+      <line>180</line>
+    </frame>
+    <frame>
+      <class>TempTestSuite1741679198069</class>
+      <method>run</method>
+      <line>35</line>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke0</method>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>77</line>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.DelegatingMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>43</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="failed.exception.stacktrace">groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - &apos;Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&apos;, ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+</property>
+  <property name="failed.exception.class">groovy.lang.MissingMethodException</property>
+  <property name="failed.exception.message">No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - &apos;Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&apos;, ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)</property>
+</record>
+<record>
+  <date>2025-03-11T07:46:54.090421Z</date>
+  <millis>1741679214090</millis>
+  <nanos>421000</nanos>
+  <sequence>59</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : selectOptionByLabel(findTestObject(&amp;quot;Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&amp;quot;), groovy.lang.Category, false)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:46:54.100903100Z</date>
+  <millis>1741679214100</millis>
+  <nanos>903100</nanos>
+  <sequence>62</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - &amp;apos;Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&amp;apos;, ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+</message>
+  <exception>
+    <message>groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)</message>
+    <frame>
+      <class>TC_Amazon_Home_010</class>
+      <method>run</method>
+      <line>26</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>194</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>119</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>448</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>439</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>418</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>410</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>285</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.common.CommonExecutor</class>
+      <method>accessTestCaseMainPhase</method>
+      <line>71</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestSuiteMainPhase</method>
+      <line>160</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>execute</method>
+      <line>107</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>startTestSuite</method>
+      <line>180</line>
+    </frame>
+    <frame>
+      <class>TempTestSuite1741679198069</class>
+      <method>run</method>
+      <line>35</line>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke0</method>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>77</line>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.DelegatingMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>43</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="failed.exception.stacktrace">groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - &apos;Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&apos;, ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+</property>
+  <property name="failed.exception.class">groovy.lang.MissingMethodException</property>
+  <property name="failed.exception.message">No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - &apos;Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&apos;, ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)</property>
+</record>
+<record>
+  <date>2025-03-11T07:46:54.125988300Z</date>
+  <millis>1741679214125</millis>
+  <nanos>988300</nanos>
+  <sequence>65</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Data-Driven Testing/TC_Amazon_Home_010</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[
+  {
+    &quot;displayReportName&quot;: &quot;Category&quot;,
+    &quot;value&quot;: &quot;Books&quot;,
+    &quot;name&quot;: &quot;Category&quot;,
+    &quot;masked&quot;: false
+  },
+  {
+    &quot;displayReportName&quot;: &quot;SearchItem&quot;,
+    &quot;value&quot;: &quot;Da vinci code &quot;,
+    &quot;name&quot;: &quot;SearchItem&quot;,
+    &quot;masked&quot;: false
+  }
+]</property>
+  <property name="applitools">false</property>
+  <property name="remainingRetryCount">0</property>
+  <property name="currentRetryCount">0</property>
+  <property name="keywordsUsage">{
+  &quot;web_ui&quot;: true,
+  &quot;web_service&quot;: false,
+  &quot;cucumber&quot;: false,
+  &quot;builtin&quot;: false,
+  &quot;mobile&quot;: false,
+  &quot;windows&quot;: false,
+  &quot;testng&quot;: false
+}</property>
+</record>
+<record>
+  <date>2025-03-11T07:46:54.168381500Z</date>
+  <millis>1741679214168</millis>
+  <nanos>381500</nanos>
+  <sequence>68</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Data-Driven Testing/TC_Amazon_Home_010</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="remainingRetryCount">0</property>
+  <property name="name">Test Cases/Data-Driven Testing/TC_Amazon_Home_010</property>
+  <property name="description"></property>
+  <property name="iteration">Mobile phones</property>
+  <property name="id">Test Cases/Data-Driven Testing/TC_Amazon_Home_010</property>
+  <property name="source">C:\Users\simae\git\Amazon-AST\Test Cases\Data-Driven Testing\TC_Amazon_Home_010.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+  <property name="currentRetryCount">0</property>
+</record>
+<record>
+  <date>2025-03-11T07:46:54.187498700Z</date>
+  <millis>1741679214187</millis>
+  <nanos>498700</nanos>
+  <sequence>71</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Category = Electronics</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:46:54.190789500Z</date>
+  <millis>1741679214190</millis>
+  <nanos>789500</nanos>
+  <sequence>73</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>SearchItem = Mobile phones</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:46:54.199320900Z</date>
+  <millis>1741679214199</millis>
+  <nanos>320900</nanos>
+  <sequence>74</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser(&amp;quot;&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2025-03-11T07:46:54.208325400Z</date>
+  <millis>1741679214208</millis>
+  <nanos>325400</nanos>
+  <sequence>77</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>A browser is already opened. Closing browser and opening a new one</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:46:55.680345500Z</date>
+  <millis>1741679215680</millis>
+  <nanos>345500</nanos>
+  <sequence>79</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Firefox&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:46:55.688819300Z</date>
+  <millis>1741679215688</millis>
+  <nanos>819300</nanos>
+  <sequence>81</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Action delay is set to 0 milliseconds</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:46:58.513006200Z</date>
+  <millis>1741679218513</millis>
+  <nanos>6200</nanos>
+  <sequence>83</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>sessionId = 5500271a-4424-4cb9-ac57-d64429bcf01d</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="sessionId">5500271a-4424-4cb9-ac57-d64429bcf01d</property>
+</record>
+<record>
+  <date>2025-03-11T07:46:58.517035500Z</date>
+  <millis>1741679218517</millis>
+  <nanos>35500</nanos>
+  <sequence>85</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>browser = Firefox 136.0</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="browser">Firefox 136.0</property>
+</record>
+<record>
+  <date>2025-03-11T07:46:58.520658500Z</date>
+  <millis>1741679218520</millis>
+  <nanos>658500</nanos>
+  <sequence>87</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>platform = Windows 11</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="platform">Windows 11</property>
+</record>
+<record>
+  <date>2025-03-11T07:46:58.524562600Z</date>
+  <millis>1741679218524</millis>
+  <nanos>562600</nanos>
+  <sequence>89</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>seleniumVersion = 4.22.0</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="seleniumVersion">4.22.0</property>
+</record>
+<record>
+  <date>2025-03-11T07:46:58.528222900Z</date>
+  <millis>1741679218528</millis>
+  <nanos>222900</nanos>
+  <sequence>91</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&amp;quot;&amp;quot;, isApplyToDesiredCapabilities=true }</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="proxyInformation">ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }</property>
+</record>
+<record>
+  <date>2025-03-11T07:46:58.611760900Z</date>
+  <millis>1741679218611</millis>
+  <nanos>760900</nanos>
+  <sequence>92</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword.openBrowser</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2025-03-11T07:46:58.612750400Z</date>
+  <millis>1741679218612</millis>
+  <nanos>750400</nanos>
+  <sequence>93</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser(&amp;quot;&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:46:58.612750400Z</date>
+  <millis>1741679218612</millis>
+  <nanos>750400</nanos>
+  <sequence>94</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : navigateToUrl(&amp;quot;www.amazon.com&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">22</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:01.991476500Z</date>
+  <millis>1741679221991</millis>
+  <nanos>476500</nanos>
+  <sequence>97</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigate to &amp;apos;http://www.amazon.com&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.NavigateToUrlKeyword.navigateToUrl</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2025-03-11T07:47:01.993481200Z</date>
+  <millis>1741679221993</millis>
+  <nanos>481200</nanos>
+  <sequence>98</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : navigateToUrl(&amp;quot;www.amazon.com&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:47:01.993481200Z</date>
+  <millis>1741679221993</millis>
+  <nanos>481200</nanos>
+  <sequence>99</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">24</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:03.834877200Z</date>
+  <millis>1741679223834</millis>
+  <nanos>877200</nanos>
+  <sequence>109</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2025-03-11T07:47:03.835827400Z</date>
+  <millis>1741679223835</millis>
+  <nanos>827400</nanos>
+  <sequence>110</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:47:03.836819100Z</date>
+  <millis>1741679223836</millis>
+  <nanos>819100</nanos>
+  <sequence>111</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : selectOptionByLabel(findTestObject(&amp;quot;Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&amp;quot;), groovy.lang.Category, false)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">26</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:03.847394700Z</date>
+  <millis>1741679223847</millis>
+  <nanos>394700</nanos>
+  <sequence>115</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - &amp;apos;Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&amp;apos;, ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+</message>
+  <exception>
+    <message>groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)</message>
+    <frame>
+      <class>TC_Amazon_Home_010</class>
+      <method>run</method>
+      <line>26</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>194</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>119</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>448</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>439</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>418</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>410</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>285</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.common.CommonExecutor</class>
+      <method>accessTestCaseMainPhase</method>
+      <line>71</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestSuiteMainPhase</method>
+      <line>160</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>execute</method>
+      <line>107</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>startTestSuite</method>
+      <line>180</line>
+    </frame>
+    <frame>
+      <class>TempTestSuite1741679198069</class>
+      <method>run</method>
+      <line>35</line>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke0</method>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>77</line>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.DelegatingMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>43</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="failed.exception.stacktrace">groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - &apos;Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&apos;, ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+</property>
+  <property name="failed.exception.class">groovy.lang.MissingMethodException</property>
+  <property name="failed.exception.message">No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - &apos;Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&apos;, ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:03.857366700Z</date>
+  <millis>1741679223857</millis>
+  <nanos>366700</nanos>
+  <sequence>117</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : selectOptionByLabel(findTestObject(&amp;quot;Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&amp;quot;), groovy.lang.Category, false)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:47:03.860956400Z</date>
+  <millis>1741679223860</millis>
+  <nanos>956400</nanos>
+  <sequence>120</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - &amp;apos;Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&amp;apos;, ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+</message>
+  <exception>
+    <message>groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)</message>
+    <frame>
+      <class>TC_Amazon_Home_010</class>
+      <method>run</method>
+      <line>26</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>194</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>119</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>448</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>439</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>418</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>410</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>285</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.common.CommonExecutor</class>
+      <method>accessTestCaseMainPhase</method>
+      <line>71</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestSuiteMainPhase</method>
+      <line>160</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>execute</method>
+      <line>107</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>startTestSuite</method>
+      <line>180</line>
+    </frame>
+    <frame>
+      <class>TempTestSuite1741679198069</class>
+      <method>run</method>
+      <line>35</line>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke0</method>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>77</line>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.DelegatingMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>43</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="failed.exception.stacktrace">groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - &apos;Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&apos;, ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+</property>
+  <property name="failed.exception.class">groovy.lang.MissingMethodException</property>
+  <property name="failed.exception.message">No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - &apos;Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&apos;, ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:03.873644600Z</date>
+  <millis>1741679223873</millis>
+  <nanos>644600</nanos>
+  <sequence>123</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Data-Driven Testing/TC_Amazon_Home_010</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[
+  {
+    &quot;displayReportName&quot;: &quot;Category&quot;,
+    &quot;value&quot;: &quot;Electronics&quot;,
+    &quot;name&quot;: &quot;Category&quot;,
+    &quot;masked&quot;: false
+  },
+  {
+    &quot;displayReportName&quot;: &quot;SearchItem&quot;,
+    &quot;value&quot;: &quot;Mobile phones&quot;,
+    &quot;name&quot;: &quot;SearchItem&quot;,
+    &quot;masked&quot;: false
+  }
+]</property>
+  <property name="applitools">false</property>
+  <property name="remainingRetryCount">0</property>
+  <property name="currentRetryCount">0</property>
+  <property name="keywordsUsage">{
+  &quot;web_ui&quot;: true,
+  &quot;web_service&quot;: false,
+  &quot;cucumber&quot;: false,
+  &quot;builtin&quot;: false,
+  &quot;mobile&quot;: false,
+  &quot;windows&quot;: false,
+  &quot;testng&quot;: false
+}</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:03.915141700Z</date>
+  <millis>1741679223915</millis>
+  <nanos>141700</nanos>
+  <sequence>126</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Data-Driven Testing/TC_Amazon_Home_010</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="remainingRetryCount">0</property>
+  <property name="name">Test Cases/Data-Driven Testing/TC_Amazon_Home_010</property>
+  <property name="description"></property>
+  <property name="iteration">Washing Machine</property>
+  <property name="id">Test Cases/Data-Driven Testing/TC_Amazon_Home_010</property>
+  <property name="source">C:\Users\simae\git\Amazon-AST\Test Cases\Data-Driven Testing\TC_Amazon_Home_010.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+  <property name="currentRetryCount">0</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:03.937485100Z</date>
+  <millis>1741679223937</millis>
+  <nanos>485100</nanos>
+  <sequence>129</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Category = Home applications</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:47:03.939680300Z</date>
+  <millis>1741679223939</millis>
+  <nanos>680300</nanos>
+  <sequence>131</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>SearchItem = Washing Machine</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:47:03.941673700Z</date>
+  <millis>1741679223941</millis>
+  <nanos>673700</nanos>
+  <sequence>132</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser(&amp;quot;&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:03.945673100Z</date>
+  <millis>1741679223945</millis>
+  <nanos>673100</nanos>
+  <sequence>135</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>A browser is already opened. Closing browser and opening a new one</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:47:05.581413300Z</date>
+  <millis>1741679225581</millis>
+  <nanos>413300</nanos>
+  <sequence>137</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Firefox&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:47:05.588909Z</date>
+  <millis>1741679225588</millis>
+  <nanos>909000</nanos>
+  <sequence>139</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Action delay is set to 0 milliseconds</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:47:08.705978100Z</date>
+  <millis>1741679228705</millis>
+  <nanos>978100</nanos>
+  <sequence>141</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>sessionId = d81a21e4-7c33-4ffe-9065-693f34657b51</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="sessionId">d81a21e4-7c33-4ffe-9065-693f34657b51</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:08.709517200Z</date>
+  <millis>1741679228709</millis>
+  <nanos>517200</nanos>
+  <sequence>143</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>browser = Firefox 136.0</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="browser">Firefox 136.0</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:08.713514800Z</date>
+  <millis>1741679228713</millis>
+  <nanos>514800</nanos>
+  <sequence>145</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>platform = Windows 11</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="platform">Windows 11</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:08.718518300Z</date>
+  <millis>1741679228718</millis>
+  <nanos>518300</nanos>
+  <sequence>147</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>seleniumVersion = 4.22.0</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="seleniumVersion">4.22.0</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:08.723064600Z</date>
+  <millis>1741679228723</millis>
+  <nanos>64600</nanos>
+  <sequence>149</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&amp;quot;&amp;quot;, isApplyToDesiredCapabilities=true }</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="proxyInformation">ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:08.773630600Z</date>
+  <millis>1741679228773</millis>
+  <nanos>630600</nanos>
+  <sequence>150</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword.openBrowser</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2025-03-11T07:47:08.774638900Z</date>
+  <millis>1741679228774</millis>
+  <nanos>638900</nanos>
+  <sequence>151</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser(&amp;quot;&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:47:08.775630500Z</date>
+  <millis>1741679228775</millis>
+  <nanos>630500</nanos>
+  <sequence>152</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : navigateToUrl(&amp;quot;www.amazon.com&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">22</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:11.873297700Z</date>
+  <millis>1741679231873</millis>
+  <nanos>297700</nanos>
+  <sequence>155</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigate to &amp;apos;http://www.amazon.com&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.NavigateToUrlKeyword.navigateToUrl</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2025-03-11T07:47:11.874821900Z</date>
+  <millis>1741679231874</millis>
+  <nanos>821900</nanos>
+  <sequence>156</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : navigateToUrl(&amp;quot;www.amazon.com&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:47:11.874821900Z</date>
+  <millis>1741679231874</millis>
+  <nanos>821900</nanos>
+  <sequence>157</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">24</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:13.501353700Z</date>
+  <millis>1741679233501</millis>
+  <nanos>353700</nanos>
+  <sequence>167</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2025-03-11T07:47:13.502353600Z</date>
+  <millis>1741679233502</millis>
+  <nanos>353600</nanos>
+  <sequence>168</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:47:13.503353800Z</date>
+  <millis>1741679233503</millis>
+  <nanos>353800</nanos>
+  <sequence>169</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : selectOptionByLabel(findTestObject(&amp;quot;Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&amp;quot;), groovy.lang.Category, false)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">26</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:13.511876Z</date>
+  <millis>1741679233511</millis>
+  <nanos>876000</nanos>
+  <sequence>173</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - &amp;apos;Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&amp;apos;, ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+</message>
+  <exception>
+    <message>groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)</message>
+    <frame>
+      <class>TC_Amazon_Home_010</class>
+      <method>run</method>
+      <line>26</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>194</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>119</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>448</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>439</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>418</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>410</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>285</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.common.CommonExecutor</class>
+      <method>accessTestCaseMainPhase</method>
+      <line>71</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestSuiteMainPhase</method>
+      <line>160</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>execute</method>
+      <line>107</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>startTestSuite</method>
+      <line>180</line>
+    </frame>
+    <frame>
+      <class>TempTestSuite1741679198069</class>
+      <method>run</method>
+      <line>35</line>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke0</method>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>77</line>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.DelegatingMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>43</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="failed.exception.stacktrace">groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - &apos;Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&apos;, ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+</property>
+  <property name="failed.exception.class">groovy.lang.MissingMethodException</property>
+  <property name="failed.exception.message">No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - &apos;Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&apos;, ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:13.520397900Z</date>
+  <millis>1741679233520</millis>
+  <nanos>397900</nanos>
+  <sequence>175</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : selectOptionByLabel(findTestObject(&amp;quot;Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&amp;quot;), groovy.lang.Category, false)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:47:13.523407100Z</date>
+  <millis>1741679233523</millis>
+  <nanos>407100</nanos>
+  <sequence>178</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - &amp;apos;Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&amp;apos;, ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+</message>
+  <exception>
+    <message>groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)</message>
+    <frame>
+      <class>TC_Amazon_Home_010</class>
+      <method>run</method>
+      <line>26</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>194</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>119</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>448</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>439</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>418</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>410</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>285</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.common.CommonExecutor</class>
+      <method>accessTestCaseMainPhase</method>
+      <line>71</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestSuiteMainPhase</method>
+      <line>160</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>execute</method>
+      <line>107</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>startTestSuite</method>
+      <line>180</line>
+    </frame>
+    <frame>
+      <class>TempTestSuite1741679198069</class>
+      <method>run</method>
+      <line>35</line>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke0</method>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>77</line>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.DelegatingMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>43</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="failed.exception.stacktrace">groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - &apos;Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&apos;, ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+</property>
+  <property name="failed.exception.class">groovy.lang.MissingMethodException</property>
+  <property name="failed.exception.message">No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - &apos;Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&apos;, ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:13.536926300Z</date>
+  <millis>1741679233536</millis>
+  <nanos>926300</nanos>
+  <sequence>181</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Data-Driven Testing/TC_Amazon_Home_010</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[
+  {
+    &quot;displayReportName&quot;: &quot;Category&quot;,
+    &quot;value&quot;: &quot;Home applications&quot;,
+    &quot;name&quot;: &quot;Category&quot;,
+    &quot;masked&quot;: false
+  },
+  {
+    &quot;displayReportName&quot;: &quot;SearchItem&quot;,
+    &quot;value&quot;: &quot;Washing Machine&quot;,
+    &quot;name&quot;: &quot;SearchItem&quot;,
+    &quot;masked&quot;: false
+  }
+]</property>
+  <property name="applitools">false</property>
+  <property name="remainingRetryCount">0</property>
+  <property name="currentRetryCount">0</property>
+  <property name="keywordsUsage">{
+  &quot;web_ui&quot;: true,
+  &quot;web_service&quot;: false,
+  &quot;cucumber&quot;: false,
+  &quot;builtin&quot;: false,
+  &quot;mobile&quot;: false,
+  &quot;windows&quot;: false,
+  &quot;testng&quot;: false
+}</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:13.566618300Z</date>
+  <millis>1741679233566</millis>
+  <nanos>618300</nanos>
+  <sequence>184</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Data-Driven Testing/TC_Amazon_Home_010</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="remainingRetryCount">0</property>
+  <property name="name">Test Cases/Data-Driven Testing/TC_Amazon_Home_010</property>
+  <property name="description"></property>
+  <property name="iteration">Sony</property>
+  <property name="id">Test Cases/Data-Driven Testing/TC_Amazon_Home_010</property>
+  <property name="source">C:\Users\simae\git\Amazon-AST\Test Cases\Data-Driven Testing\TC_Amazon_Home_010.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+  <property name="currentRetryCount">0</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:13.578227600Z</date>
+  <millis>1741679233578</millis>
+  <nanos>227600</nanos>
+  <sequence>187</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Category = Computer</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:47:13.580237200Z</date>
+  <millis>1741679233580</millis>
+  <nanos>237200</nanos>
+  <sequence>189</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>SearchItem = Sony</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:47:13.585240700Z</date>
+  <millis>1741679233585</millis>
+  <nanos>240700</nanos>
+  <sequence>190</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser(&amp;quot;&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:13.591765900Z</date>
+  <millis>1741679233591</millis>
+  <nanos>765900</nanos>
+  <sequence>193</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>A browser is already opened. Closing browser and opening a new one</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:47:15.201486200Z</date>
+  <millis>1741679235201</millis>
+  <nanos>486200</nanos>
+  <sequence>195</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Firefox&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:47:15.208499900Z</date>
+  <millis>1741679235208</millis>
+  <nanos>499900</nanos>
+  <sequence>197</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Action delay is set to 0 milliseconds</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:47:18.217261300Z</date>
+  <millis>1741679238217</millis>
+  <nanos>261300</nanos>
+  <sequence>199</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>sessionId = 6e81450d-f5e4-4a50-b275-43440e709ee9</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="sessionId">6e81450d-f5e4-4a50-b275-43440e709ee9</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:18.218782600Z</date>
+  <millis>1741679238218</millis>
+  <nanos>782600</nanos>
+  <sequence>201</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>browser = Firefox 136.0</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="browser">Firefox 136.0</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:18.219803Z</date>
+  <millis>1741679238219</millis>
+  <nanos>803000</nanos>
+  <sequence>203</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>platform = Windows 11</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="platform">Windows 11</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:18.220787600Z</date>
+  <millis>1741679238220</millis>
+  <nanos>787600</nanos>
+  <sequence>205</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>seleniumVersion = 4.22.0</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="seleniumVersion">4.22.0</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:18.223792200Z</date>
+  <millis>1741679238223</millis>
+  <nanos>792200</nanos>
+  <sequence>207</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>proxyInformation = ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&amp;quot;&amp;quot;, isApplyToDesiredCapabilities=true }</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="proxyInformation">ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:18.369615900Z</date>
+  <millis>1741679238369</millis>
+  <nanos>615900</nanos>
+  <sequence>208</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Browser is opened with url: &amp;apos;&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword.openBrowser</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2025-03-11T07:47:18.370615800Z</date>
+  <millis>1741679238370</millis>
+  <nanos>615800</nanos>
+  <sequence>209</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser(&amp;quot;&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:47:18.370615800Z</date>
+  <millis>1741679238370</millis>
+  <nanos>615800</nanos>
+  <sequence>210</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : navigateToUrl(&amp;quot;www.amazon.com&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">22</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:21.585076900Z</date>
+  <millis>1741679241585</millis>
+  <nanos>76900</nanos>
+  <sequence>213</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Navigate to &amp;apos;http://www.amazon.com&amp;apos; successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.NavigateToUrlKeyword.navigateToUrl</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2025-03-11T07:47:21.587075600Z</date>
+  <millis>1741679241587</millis>
+  <nanos>75600</nanos>
+  <sequence>214</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : navigateToUrl(&amp;quot;www.amazon.com&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:47:21.587075600Z</date>
+  <millis>1741679241587</millis>
+  <nanos>75600</nanos>
+  <sequence>215</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : click(findTestObject(&amp;quot;login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">24</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:23.345407500Z</date>
+  <millis>1741679243345</millis>
+  <nanos>407500</nanos>
+  <sequence>225</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Object: &amp;apos;Object Repository/login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account&amp;apos; is clicked on</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2025-03-11T07:47:23.345407500Z</date>
+  <millis>1741679243345</millis>
+  <nanos>407500</nanos>
+  <sequence>226</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : click(findTestObject(&amp;quot;login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account&amp;quot;))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:47:23.345407500Z</date>
+  <millis>1741679243345</millis>
+  <nanos>407500</nanos>
+  <sequence>227</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : selectOptionByLabel(findTestObject(&amp;quot;Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&amp;quot;), groovy.lang.Category, false)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">26</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:23.352803100Z</date>
+  <millis>1741679243352</millis>
+  <nanos>803100</nanos>
+  <sequence>231</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - &amp;apos;Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&amp;apos;, ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+</message>
+  <exception>
+    <message>groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)</message>
+    <frame>
+      <class>TC_Amazon_Home_010</class>
+      <method>run</method>
+      <line>26</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>194</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>119</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>448</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>439</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>418</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>410</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>285</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.common.CommonExecutor</class>
+      <method>accessTestCaseMainPhase</method>
+      <line>71</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestSuiteMainPhase</method>
+      <line>160</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>execute</method>
+      <line>107</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>startTestSuite</method>
+      <line>180</line>
+    </frame>
+    <frame>
+      <class>TempTestSuite1741679198069</class>
+      <method>run</method>
+      <line>35</line>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke0</method>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>77</line>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.DelegatingMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>43</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="failed.exception.stacktrace">groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - &apos;Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&apos;, ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+</property>
+  <property name="failed.exception.class">groovy.lang.MissingMethodException</property>
+  <property name="failed.exception.message">No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - &apos;Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&apos;, ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:23.360024Z</date>
+  <millis>1741679243360</millis>
+  <nanos>24000</nanos>
+  <sequence>233</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : selectOptionByLabel(findTestObject(&amp;quot;Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&amp;quot;), groovy.lang.Category, false)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:47:23.362080Z</date>
+  <millis>1741679243362</millis>
+  <nanos>80000</nanos>
+  <sequence>236</sequence>
+  <level>ERROR</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - &amp;apos;Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&amp;apos;, ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+</message>
+  <exception>
+    <message>groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)</message>
+    <frame>
+      <class>TC_Amazon_Home_010</class>
+      <method>run</method>
+      <line>26</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>194</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>119</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>448</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>439</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>418</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>410</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>285</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.common.CommonExecutor</class>
+      <method>accessTestCaseMainPhase</method>
+      <line>71</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestSuiteMainPhase</method>
+      <line>160</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>execute</method>
+      <line>107</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>startTestSuite</method>
+      <line>180</line>
+    </frame>
+    <frame>
+      <class>TempTestSuite1741679198069</class>
+      <method>run</method>
+      <line>35</line>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke0</method>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>77</line>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.DelegatingMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>43</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="failed.exception.stacktrace">groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - &apos;Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&apos;, ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+</property>
+  <property name="failed.exception.class">groovy.lang.MissingMethodException</property>
+  <property name="failed.exception.message">No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - &apos;Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category&apos;, ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:23.374550700Z</date>
+  <millis>1741679243374</millis>
+  <nanos>550700</nanos>
+  <sequence>239</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Data-Driven Testing/TC_Amazon_Home_010</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[
+  {
+    &quot;displayReportName&quot;: &quot;Category&quot;,
+    &quot;value&quot;: &quot;Computer&quot;,
+    &quot;name&quot;: &quot;Category&quot;,
+    &quot;masked&quot;: false
+  },
+  {
+    &quot;displayReportName&quot;: &quot;SearchItem&quot;,
+    &quot;value&quot;: &quot;Sony&quot;,
+    &quot;name&quot;: &quot;SearchItem&quot;,
+    &quot;masked&quot;: false
+  }
+]</property>
+  <property name="applitools">false</property>
+  <property name="remainingRetryCount">0</property>
+  <property name="currentRetryCount">0</property>
+  <property name="keywordsUsage">{
+  &quot;web_ui&quot;: true,
+  &quot;web_service&quot;: false,
+  &quot;cucumber&quot;: false,
+  &quot;builtin&quot;: false,
+  &quot;mobile&quot;: false,
+  &quot;windows&quot;: false,
+  &quot;testng&quot;: false
+}</property>
+</record>
+<record>
+  <date>2025-03-11T07:47:23.375556800Z</date>
+  <millis>1741679243375</millis>
+  <nanos>556800</nanos>
+  <sequence>240</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start listener action : exportKatalonReports</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:47:23.754504Z</date>
+  <millis>1741679243754</millis>
+  <nanos>504000</nanos>
+  <sequence>453</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Start generating HTML report folder at: C:\Users\simae\git\Amazon-AST\Reports\20250311_131638\Data_Driven_testing\20250311_131638...</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:47:23.896670200Z</date>
+  <millis>1741679243896</millis>
+  <nanos>670200</nanos>
+  <sequence>455</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>HTML report generated</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:47:23.896670200Z</date>
+  <millis>1741679243896</millis>
+  <nanos>670200</nanos>
+  <sequence>457</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Start generating CSV report folder at: C:\Users\simae\git\Amazon-AST\Reports\20250311_131638\Data_Driven_testing\20250311_131638...</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:47:23.935463800Z</date>
+  <millis>1741679243935</millis>
+  <nanos>463800</nanos>
+  <sequence>459</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>CSV report generated</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:47:24.948449200Z</date>
+  <millis>1741679244948</millis>
+  <nanos>449200</nanos>
+  <sequence>461</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End listener action : exportKatalonReports</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:47:27.323133100Z</date>
+  <millis>1741679247323</millis>
+  <nanos>133100</nanos>
+  <sequence>465</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/Data_Driven_testing</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-03-11T07:52:38.919926300Z</date>
+  <millis>1741679558919</millis>
+  <nanos>926300</nanos>
+  <sequence>925</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1317</thread>
+  <message>Action delay is set to 0 milliseconds</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T07:52:41.071884900Z</date>
+  <millis>1741679561071</millis>
+  <nanos>884900</nanos>
+  <sequence>926</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1317</thread>
+  <message>Your browser version or type does not support the BiDirectional WebDriver Protocol which is required for Smart Wait functionality. Please update your browser or switch to a compatible one.</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T08:42:46.019176300Z</date>
+  <millis>1741682566019</millis>
+  <nanos>176300</nanos>
+  <sequence>1087</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding test data with id &amp;apos;Data Files/LogIn_DDT_InternalData_002&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T08:42:46.023191300Z</date>
+  <millis>1741682566023</millis>
+  <nanos>191300</nanos>
+  <sequence>1088</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test data is internal data, reading internal data</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T08:46:30.078791100Z</date>
+  <millis>1741682790078</millis>
+  <nanos>791100</nanos>
+  <sequence>1089</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1549</thread>
+  <message>Action delay is set to 0 milliseconds</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T08:46:32.261505500Z</date>
+  <millis>1741682792261</millis>
+  <nanos>505500</nanos>
+  <sequence>1090</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1549</thread>
+  <message>Your browser version or type does not support the BiDirectional WebDriver Protocol which is required for Smart Wait functionality. Please update your browser or switch to a compatible one.</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T12:32:04.284679300Z</date>
+  <millis>1741696324284</millis>
+  <nanos>679300</nanos>
+  <sequence>1263</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1780</thread>
+  <message>Action delay is set to 0 milliseconds</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T12:32:06.435747900Z</date>
+  <millis>1741696326435</millis>
+  <nanos>747900</nanos>
+  <sequence>1264</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1780</thread>
+  <message>Your browser version or type does not support the BiDirectional WebDriver Protocol which is required for Smart Wait functionality. Please update your browser or switch to a compatible one.</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T12:34:09.132812400Z</date>
+  <millis>1741696449132</millis>
+  <nanos>812400</nanos>
+  <sequence>1265</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1836</thread>
+  <message>Action delay is set to 0 milliseconds</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T12:34:11.351201900Z</date>
+  <millis>1741696451351</millis>
+  <nanos>201900</nanos>
+  <sequence>1266</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1836</thread>
+  <message>Your browser version or type does not support the BiDirectional WebDriver Protocol which is required for Smart Wait functionality. Please update your browser or switch to a compatible one.</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T12:42:43.656409200Z</date>
+  <millis>1741696963656</millis>
+  <nanos>409200</nanos>
+  <sequence>1267</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1859</thread>
+  <message>Action delay is set to 0 milliseconds</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T12:42:45.794283Z</date>
+  <millis>1741696965794</millis>
+  <nanos>283000</nanos>
+  <sequence>1268</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1859</thread>
+  <message>Your browser version or type does not support the BiDirectional WebDriver Protocol which is required for Smart Wait functionality. Please update your browser or switch to a compatible one.</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T12:43:24.607509600Z</date>
+  <millis>1741697004607</millis>
+  <nanos>509600</nanos>
+  <sequence>1269</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1893</thread>
+  <message>Action delay is set to 0 milliseconds</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T12:43:26.672432900Z</date>
+  <millis>1741697006672</millis>
+  <nanos>432900</nanos>
+  <sequence>1270</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1893</thread>
+  <message>Your browser version or type does not support the BiDirectional WebDriver Protocol which is required for Smart Wait functionality. Please update your browser or switch to a compatible one.</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T12:46:37.920509600Z</date>
+  <millis>1741697197920</millis>
+  <nanos>509600</nanos>
+  <sequence>1271</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1941</thread>
+  <message>Action delay is set to 0 milliseconds</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T12:46:39.972616800Z</date>
+  <millis>1741697199972</millis>
+  <nanos>616800</nanos>
+  <sequence>1272</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1941</thread>
+  <message>Your browser version or type does not support the BiDirectional WebDriver Protocol which is required for Smart Wait functionality. Please update your browser or switch to a compatible one.</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T12:57:37.753641800Z</date>
+  <millis>1741697857753</millis>
+  <nanos>641800</nanos>
+  <sequence>1273</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2023</thread>
+  <message>Action delay is set to 0 milliseconds</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-11T12:57:39.937596800Z</date>
+  <millis>1741697859937</millis>
+  <nanos>596800</nanos>
+  <sequence>1274</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>2023</thread>
+  <message>Your browser version or type does not support the BiDirectional WebDriver Protocol which is required for Smart Wait functionality. Please update your browser or switch to a compatible one.</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+</log>

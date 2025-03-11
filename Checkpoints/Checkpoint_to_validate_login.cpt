@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint_to_validate_login</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/LogIn_DDT_InternalData_002</source-url>
+   </source-info>
+   <taken-date>2025-03-11T14:12:46.025+05:30</taken-date>
+   <column-names>
+      <column-name>Email or mobile phone number </column-name>
+      <column-name>Password</column-name>
+      <column-name>LoggedIn</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "+918582912274",
+      "checked": false
+    },
+    {
+      "value": "Amazon@123",
+      "checked": false
+    },
+    {
+      "value": "Success",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

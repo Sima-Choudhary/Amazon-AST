@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validating_payment_modes</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b789665f-863b-4444-bb1c-bc39212ccff8</testCaseGuid>
+</TestCaseEntity>

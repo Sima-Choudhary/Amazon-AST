@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validating_Successfull_login_001</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4630f8ad-7065-4b89-9ccb-4455ef1121e8</testCaseGuid>
+</TestCaseEntity>

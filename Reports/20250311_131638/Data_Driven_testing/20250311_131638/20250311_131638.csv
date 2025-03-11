@@ -1,0 +1,30 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Data_Driven_testing,Firefox 136.0,,,11-03-2025 13:16:43,11-03-2025 13:17:23,39.871s,ERROR
+,,,,,,,
+Test Cases/Data-Driven Testing/TC_Amazon_Home_010,Firefox 136.0,,,11-03-2025 13:16:44,11-03-2025 13:16:54,9.891s,ERROR
+"DATA BINDING - {""Category"":""Books"",""SearchItem"":""Da vinci code ""}",,,,,,,
+"openBrowser("""")",Firefox 136.0,,,11-03-2025 13:16:44,11-03-2025 13:16:49,4.882s,PASSED
+"navigateToUrl(""www.amazon.com"")",Firefox 136.0,,,11-03-2025 13:16:49,11-03-2025 13:16:51,1.966s,PASSED
+"click(findTestObject(""login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account""))",Firefox 136.0,,,11-03-2025 13:16:51,11-03-2025 13:16:53,2.353s,PASSED
+"selectOptionByLabel(findTestObject(""Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category""), groovy.lang.Category, false)",Firefox 136.0,,,11-03-2025 13:16:53,11-03-2025 13:16:54,0.217s,ERROR
+,,,,,,,
+Test Cases/Data-Driven Testing/TC_Amazon_Home_010,Firefox 136.0,,,11-03-2025 13:16:54,11-03-2025 13:17:03,9.705s,ERROR
+"DATA BINDING - {""Category"":""Electronics"",""SearchItem"":""Mobile phones""}",,,,,,,
+"openBrowser("""")",Firefox 136.0,,,11-03-2025 13:16:54,11-03-2025 13:16:58,4.413s,PASSED
+"navigateToUrl(""www.amazon.com"")",Firefox 136.0,,,11-03-2025 13:16:58,11-03-2025 13:17:01,3.381s,PASSED
+"click(findTestObject(""login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account""))",Firefox 136.0,,,11-03-2025 13:17:01,11-03-2025 13:17:03,1.842s,PASSED
+"selectOptionByLabel(findTestObject(""Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category""), groovy.lang.Category, false)",Firefox 136.0,,,11-03-2025 13:17:03,11-03-2025 13:17:03,0.021s,ERROR
+,,,,,,,
+Test Cases/Data-Driven Testing/TC_Amazon_Home_010,Firefox 136.0,,,11-03-2025 13:17:03,11-03-2025 13:17:13,9.621s,ERROR
+"DATA BINDING - {""Category"":""Home applications"",""SearchItem"":""Washing Machine""}",,,,,,,
+"openBrowser("""")",Firefox 136.0,,,11-03-2025 13:17:03,11-03-2025 13:17:08,4.833s,PASSED
+"navigateToUrl(""www.amazon.com"")",Firefox 136.0,,,11-03-2025 13:17:08,11-03-2025 13:17:11,3.099s,PASSED
+"click(findTestObject(""login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account""))",Firefox 136.0,,,11-03-2025 13:17:11,11-03-2025 13:17:13,1.628s,PASSED
+"selectOptionByLabel(findTestObject(""Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category""), groovy.lang.Category, false)",Firefox 136.0,,,11-03-2025 13:17:13,11-03-2025 13:17:13,0.017s,ERROR
+,,,,,,,
+Test Cases/Data-Driven Testing/TC_Amazon_Home_010,Firefox 136.0,,,11-03-2025 13:17:13,11-03-2025 13:17:23,9.808s,ERROR
+"DATA BINDING - {""Category"":""Computer"",""SearchItem"":""Sony""}",,,,,,,
+"openBrowser("""")",Firefox 136.0,,,11-03-2025 13:17:13,11-03-2025 13:17:18,4.785s,PASSED
+"navigateToUrl(""www.amazon.com"")",Firefox 136.0,,,11-03-2025 13:17:18,11-03-2025 13:17:21,3.217s,PASSED
+"click(findTestObject(""login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account""))",Firefox 136.0,,,11-03-2025 13:17:21,11-03-2025 13:17:23,1.758s,PASSED
+"selectOptionByLabel(findTestObject(""Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category""), groovy.lang.Category, false)",Firefox 136.0,,,11-03-2025 13:17:23,11-03-2025 13:17:23,0.015s,ERROR

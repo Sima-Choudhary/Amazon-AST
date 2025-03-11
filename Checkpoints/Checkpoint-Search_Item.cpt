@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint-Search_Item</name>
+   <tag></tag>
+   <excel-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>C:\Users\simae\git\Amazon-AST\Test Data\Search_item.xlsx</source-url>
+      <source-type>ExcelFile</source-type>
+      <sheet-name-or-separator>Sheet1</sheet-name-or-separator>
+      <is-using-relative-path>false</is-using-relative-path>
+      <is-using-first-row-as-header>true</is-using-first-row-as-header>
+   </excel-source-info>
+   <taken-date>2025-03-11T17:14:44.547+05:30</taken-date>
+   <column-names>
+      <column-name>Category</column-name>
+      <column-name>SearchItem</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Books",
+      "checked": true
+    },
+    {
+      "value": "Da vinci code ",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Electronics",
+      "checked": true
+    },
+    {
+      "value": "Mobile phones",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Home applications",
+      "checked": true
+    },
+    {
+      "value": "Washing Machine",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Computer",
+      "checked": true
+    },
+    {
+      "value": "Sony",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

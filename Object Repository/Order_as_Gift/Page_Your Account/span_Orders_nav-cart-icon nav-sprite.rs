@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Orders_nav-cart-icon nav-sprite</name>
+   <tag></tag>
+   <elementGuidId>4af6cf83-1c6c-4491-9903-08d0b7bd7d70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-cart-count-container']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.nav-cart-icon.nav-sprite</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;2 items in cart&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f4ddcf0c-c75b-4875-89a4-9d801ff2d790</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-cart-icon nav-sprite</value>
+      <webElementGuid>5a68a20b-105b-4c09-a835-3a664bbf6391</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-cart-count-container&quot;)/span[@class=&quot;nav-cart-icon nav-sprite&quot;]</value>
+      <webElementGuid>14d8913e-eebc-49c9-ab05-f7a9dde4d539</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-cart-count-container']/span[2]</value>
+      <webElementGuid>81983c45-4036-4e0e-96d7-21f61d0b0ccf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]/div/span[2]</value>
+      <webElementGuid>9d8be52e-b343-46f7-8e64-8a2be5bf299f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

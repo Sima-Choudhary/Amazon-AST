@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Data_Driven_testing" time="39.871" tests="4" failures="0" errors="4">
+   <testsuite name="Data_Driven_testing" tests="4" failures="0" errors="4" time="39.871" skipped="0" timestamp="11-03-2025T13:16:43" hostname="simae - sima_choudhary" id="Test Suites/Data_Driven_testing">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\simae\\git\\Amazon-AST\\Reports\\20250311_131638\\Data_Driven_testing\\20250311_131638"/>
+         <property name="logFiles" value="C:\\Users\\simae\\git\\Amazon-AST\\Reports\\20250311_131638\\Data_Driven_testing\\20250311_131638\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="simae - sima_choudhary"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="10.1.0.223"/>
+         <property name="browser" value="Firefox 136.0"/>
+         <property name="hostAddress" value="192.168.79.186"/>
+         <property name="sessionId" value="6e81450d-f5e4-4a50-b275-43440e709ee9"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Data-Driven Testing/TC_Amazon_Home_010" time="9.891" classname="Test Cases/Data-Driven Testing/TC_Amazon_Home_010" status="ERROR">
+         <properties>
+            <property name="data_binding"><![CDATA[{"Category":"Books","SearchItem":"Da vinci code "}]]></property>
+         </properties>
+         <error type="ERROR" message="Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.&#xa;Reason:&#xa;groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]&#xa;Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)&#xa;	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)&#xa;	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xa;	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)&#xa;	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)&#xa;	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)&#xa;	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;"/>
+         <system-out><![CDATA[11-03-2025T13:16:44 - [TEST_CASE][ERROR] - Test Cases/Data-Driven Testing/TC_Amazon_Home_010: Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+
+11-03-2025T13:16:44 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+11-03-2025T13:16:45 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+11-03-2025T13:16:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+11-03-2025T13:16:49 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+11-03-2025T13:16:49 - [TEST_STEP][PASSED] - navigateToUrl("www.amazon.com"): Navigate to 'http://www.amazon.com' successfully
+
+11-03-2025T13:16:51 - [MESSAGE][PASSED] - Navigate to 'http://www.amazon.com' successfully
+
+11-03-2025T13:16:51 - [TEST_STEP][PASSED] - click(findTestObject("login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account")): Object: 'Object Repository/login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account' is clicked on
+
+11-03-2025T13:16:53 - [MESSAGE][PASSED] - Object: 'Object Repository/login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account' is clicked on
+
+11-03-2025T13:16:53 - [TEST_STEP][ERROR] - selectOptionByLabel(findTestObject("Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category"), groovy.lang.Category, false): Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+
+11-03-2025T13:16:54 - [MESSAGE][ERROR] - Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)]]></system-out>
+         <system-err><![CDATA[11-03-2025T13:16:44 - [TEST_CASE][ERROR] - Test Cases/Data-Driven Testing/TC_Amazon_Home_010: Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data-Driven Testing/TC_Amazon_Home_010" time="9.705" classname="Test Cases/Data-Driven Testing/TC_Amazon_Home_010" status="ERROR">
+         <properties>
+            <property name="data_binding"><![CDATA[{"Category":"Electronics","SearchItem":"Mobile phones"}]]></property>
+         </properties>
+         <error type="ERROR" message="Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.&#xa;Reason:&#xa;groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]&#xa;Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)&#xa;	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)&#xa;	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xa;	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)&#xa;	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)&#xa;	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)&#xa;	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;"/>
+         <system-out><![CDATA[11-03-2025T13:16:54 - [TEST_CASE][ERROR] - Test Cases/Data-Driven Testing/TC_Amazon_Home_010: Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+
+11-03-2025T13:16:54 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+11-03-2025T13:16:54 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+11-03-2025T13:16:55 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+11-03-2025T13:16:55 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+11-03-2025T13:16:58 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+11-03-2025T13:16:58 - [TEST_STEP][PASSED] - navigateToUrl("www.amazon.com"): Navigate to 'http://www.amazon.com' successfully
+
+11-03-2025T13:17:01 - [MESSAGE][PASSED] - Navigate to 'http://www.amazon.com' successfully
+
+11-03-2025T13:17:01 - [TEST_STEP][PASSED] - click(findTestObject("login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account")): Object: 'Object Repository/login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account' is clicked on
+
+11-03-2025T13:17:03 - [MESSAGE][PASSED] - Object: 'Object Repository/login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account' is clicked on
+
+11-03-2025T13:17:03 - [TEST_STEP][ERROR] - selectOptionByLabel(findTestObject("Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category"), groovy.lang.Category, false): Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+
+11-03-2025T13:17:03 - [MESSAGE][ERROR] - Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)]]></system-out>
+         <system-err><![CDATA[11-03-2025T13:16:54 - [TEST_CASE][ERROR] - Test Cases/Data-Driven Testing/TC_Amazon_Home_010: Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data-Driven Testing/TC_Amazon_Home_010" time="9.621" classname="Test Cases/Data-Driven Testing/TC_Amazon_Home_010" status="ERROR">
+         <properties>
+            <property name="data_binding"><![CDATA[{"Category":"Home applications","SearchItem":"Washing Machine"}]]></property>
+         </properties>
+         <error type="ERROR" message="Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.&#xa;Reason:&#xa;groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]&#xa;Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)&#xa;	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)&#xa;	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xa;	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)&#xa;	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)&#xa;	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)&#xa;	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;"/>
+         <system-out><![CDATA[11-03-2025T13:17:03 - [TEST_CASE][ERROR] - Test Cases/Data-Driven Testing/TC_Amazon_Home_010: Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+
+11-03-2025T13:17:03 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+11-03-2025T13:17:03 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+11-03-2025T13:17:05 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+11-03-2025T13:17:05 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+11-03-2025T13:17:08 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+11-03-2025T13:17:08 - [TEST_STEP][PASSED] - navigateToUrl("www.amazon.com"): Navigate to 'http://www.amazon.com' successfully
+
+11-03-2025T13:17:11 - [MESSAGE][PASSED] - Navigate to 'http://www.amazon.com' successfully
+
+11-03-2025T13:17:11 - [TEST_STEP][PASSED] - click(findTestObject("login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account")): Object: 'Object Repository/login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account' is clicked on
+
+11-03-2025T13:17:13 - [MESSAGE][PASSED] - Object: 'Object Repository/login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account' is clicked on
+
+11-03-2025T13:17:13 - [TEST_STEP][ERROR] - selectOptionByLabel(findTestObject("Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category"), groovy.lang.Category, false): Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+
+11-03-2025T13:17:13 - [MESSAGE][ERROR] - Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)]]></system-out>
+         <system-err><![CDATA[11-03-2025T13:17:03 - [TEST_CASE][ERROR] - Test Cases/Data-Driven Testing/TC_Amazon_Home_010: Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data-Driven Testing/TC_Amazon_Home_010" time="9.808" classname="Test Cases/Data-Driven Testing/TC_Amazon_Home_010" status="ERROR">
+         <properties>
+            <property name="data_binding"><![CDATA[{"Category":"Computer","SearchItem":"Sony"}]]></property>
+         </properties>
+         <error type="ERROR" message="Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.&#xa;Reason:&#xa;groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]&#xa;Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)&#xa;	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)&#xa;	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xa;	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)&#xa;	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)&#xa;	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)&#xa;	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;"/>
+         <system-out><![CDATA[11-03-2025T13:17:13 - [TEST_CASE][ERROR] - Test Cases/Data-Driven Testing/TC_Amazon_Home_010: Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+
+11-03-2025T13:17:13 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+11-03-2025T13:17:13 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+11-03-2025T13:17:15 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+11-03-2025T13:17:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+11-03-2025T13:17:18 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+11-03-2025T13:17:18 - [TEST_STEP][PASSED] - navigateToUrl("www.amazon.com"): Navigate to 'http://www.amazon.com' successfully
+
+11-03-2025T13:17:21 - [MESSAGE][PASSED] - Navigate to 'http://www.amazon.com' successfully
+
+11-03-2025T13:17:21 - [TEST_STEP][PASSED] - click(findTestObject("login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account")): Object: 'Object Repository/login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account' is clicked on
+
+11-03-2025T13:17:23 - [MESSAGE][PASSED] - Object: 'Object Repository/login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account' is clicked on
+
+11-03-2025T13:17:23 - [TEST_STEP][ERROR] - selectOptionByLabel(findTestObject("Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category"), groovy.lang.Category, false): Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+
+11-03-2025T13:17:23 - [MESSAGE][ERROR] - Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)]]></system-out>
+         <system-err><![CDATA[11-03-2025T13:17:13 - [TEST_CASE][ERROR] - Test Cases/Data-Driven Testing/TC_Amazon_Home_010: Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[11-03-2025T13:16:43 - [TEST_SUITE][ERROR] - Data_Driven_testing: Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)]]></system-out>
+      <system-err><![CDATA[11-03-2025T13:16:43 - [TEST_SUITE][ERROR] - Data_Driven_testing: Test Cases/Data-Driven Testing/TC_Amazon_Home_010 FAILED.
+Reason:
+groovy.lang.MissingMethodException: No signature of method: static com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.selectOptionByLabel() is applicable for argument types: (com.kms.katalon.core.testobject.TestObject, Class, Boolean) values: [TestObject - 'Object Repository/Serch_item_010_DDT_OR/Page_Amazon.com. Spend less. Smile more/Category', ...]
+Possible solutions: selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), selectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean), deselectOptionByLabel(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean, com.kms.katalon.core.model.FailureHandling), selectOptionByValue(com.kms.katalon.core.testobject.TestObject, java.lang.String, boolean)
+	at TC_Amazon_Home_010.run(TC_Amazon_Home_010:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1741679198069.run(TempTestSuite1741679198069.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)]]></system-err>
+   </testsuite>
+</testsuites>

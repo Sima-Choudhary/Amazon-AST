@@ -9,7 +9,7 @@
    <dataFileGUID>3cc9393c-1a7c-4e32-bf90-c331baffd4bd</dataFileGUID>
    <dataSourceUrl></dataSourceUrl>
    <driver>InternalData</driver>
-   <data>%2B918582912274 Amazon%40123</data>
+   <data>%2B918582912274 Amazon%40123 Success</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
       <name>Email or mobile phone number </name>
@@ -18,6 +18,11 @@
    <internalDataColumns>
       <columnIndex>1</columnIndex>
       <name>Password</name>
+      <size>1</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>LoggedIn</name>
       <size>1</size>
    </internalDataColumns>
    <isInternalPath>false</isInternalPath>
