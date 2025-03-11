@@ -17,34 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.amazon.com/')
 
-WebUI.click(findTestObject('Object Repository/Order_as_Gift/Page_Amazon.com. Spend less. Smile more/a_Your Account'))
 
-WebUI.click(findTestObject('Object Repository/Order_as_Gift/Page_Your Account/span_Hello, sign in'))
-
-WebUI.setText(findTestObject('Object Repository/Order_as_Gift/Page_Amazon Sign-In/input_Email or mobile phone number_email'), 
-    '+918582912274')
-
-WebUI.click(findTestObject('Object Repository/Order_as_Gift/Page_Amazon Sign-In/input_Wrong or Invalid email address or mob_77ed40'))
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Order_as_Gift/Page_Amazon Sign-In/input_Forgot password_password'), 
-    'CRqjWPeblyV95o9fznV5pg==')
-
-WebUI.click(findTestObject('Object Repository/Order_as_Gift/Page_Amazon Sign-In/input_Enter your password_signInSubmit'))
 
 WebUI.click(findTestObject('Object Repository/Order_as_Gift/Page_Your Account/span_Orders_nav-cart-icon nav-sprite'))
 
 WebUI.click(findTestObject('Object Repository/Order_as_Gift/Page_Amazon.com Shopping Cart/i_In Stock_a-icon a-icon-checkbox'))
-
-notChecked = WebUI.verifyElementNotChecked(findTestObject('Object Repository/Order_as_Gift/Page_Amazon.com Shopping Cart/i_In Stock_a-icon a-icon-checkbox'), 0)  
-
-if(notChecked == true) {
-	System.out.println("Checked")
-	WebUI.check(findTestObject('Object Repository/Order_as_Gift/Page_Amazon.com Shopping Cart/i_In Stock_a-icon a-icon-checkbox'))
-}
 
 
 
