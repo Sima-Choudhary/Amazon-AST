@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='a-page']/footer/div[2]/ul/li[3]/a</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Notice'])[1]/following::a[1]</value>
       </entry>
       <entry>
          <key>CSS</key>

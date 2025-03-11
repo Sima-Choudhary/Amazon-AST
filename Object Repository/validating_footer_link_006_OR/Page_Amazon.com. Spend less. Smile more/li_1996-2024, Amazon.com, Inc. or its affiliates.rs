@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='copyright-text']</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Notice'])[1]/following::li[2]</value>
       </entry>
       <entry>
          <key>CSS</key>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Amazon_field-keywords</name>
+   <name>input_Search Amazon_nav-search-submit-button</name>
    <tag></tag>
-   <elementGuidId>9bb666c4-370e-4041-ae67-d0e155e038bd</elementGuidId>
+   <elementGuidId>3e8a3cb8-7c0a-446a-88de-fa8cd53f0078</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input</value>
+         <value>//input[@id='nav-search-submit-button']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#nav-bb-search</value>
+         <value>#nav-search-submit-button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=textbox[name=&quot;Search For&quot;i]</value>
+         <value>internal:role=button[name=&quot;Go&quot;s]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,86 +29,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1dc796f5-e356-470f-81b7-a3c41d5c06b1</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>text</value>
-      <webElementGuid>9f209dc9-8775-4013-9e75-5e1fa1b04f6f</webElementGuid>
+      <webElementGuid>50d5a9a4-04f8-4ec8-8817-488fec050032</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>nav-bb-search</value>
-      <webElementGuid>110f4ec0-a228-4c54-bee3-76607ff1db18</webElementGuid>
+      <value>nav-search-submit-button</value>
+      <webElementGuid>076f9635-1ce1-4089-9eff-fae8d032426d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>title</name>
+      <name>type</name>
       <type>Main</type>
-      <value>Search For</value>
-      <webElementGuid>a30a02f3-966a-4553-aa08-745042b69346</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>field-keywords</value>
-      <webElementGuid>0510c1b5-8222-4a11-ba01-b0b87f1197f0</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>d019b40e-dd52-4c32-9d19-da9cd05bca86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
+      <name>class</name>
       <type>Main</type>
-      <value>off</value>
-      <webElementGuid>1d40c4b7-0ac8-4c6f-9bc0-a877ab658ef8</webElementGuid>
+      <value>nav-input nav-progressive-attribute</value>
+      <webElementGuid>bcc246b2-b22d-4f29-8fee-795ee06f7586</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Go</value>
+      <webElementGuid>b07060d6-5424-40a8-bc91-b8e0584ad643</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>299de237-2d3c-4779-a1ed-b6d93748a930</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;nav-bb-search&quot;)</value>
-      <webElementGuid>27ac2594-d982-4214-8609-8c152b7dfcda</webElementGuid>
+      <value>id(&quot;nav-search-submit-button&quot;)</value>
+      <webElementGuid>eb8cc210-7f36-4066-ad88-cc24a3991d88</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='nav-bb-search']</value>
-      <webElementGuid>0077deb5-651c-4211-94e0-3b5d969494df</webElementGuid>
+      <value>//input[@id='nav-search-submit-button']</value>
+      <webElementGuid>34681eca-5469-4cf2-83c3-84c89f779bef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='nav-bb-searchbar']/form/div/div/input</value>
-      <webElementGuid>72100718-4864-42dd-91a6-478a1e511694</webElementGuid>
+      <value>//span[@id='nav-search-submit-text']/input</value>
+      <webElementGuid>5164da21-4bc5-4ec7-9459-26a06971c94b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>f28f6a6c-58c4-484b-ba4b-c0b9ebf98daa</webElementGuid>
+      <value>//span/input</value>
+      <webElementGuid>2ad9121d-52ae-4770-80c1-5e538e52a957</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'nav-bb-search' and @title = 'Search For' and @name = 'field-keywords']</value>
-      <webElementGuid>866743b6-85a8-467b-916a-71386e904fa2</webElementGuid>
+      <value>//input[@id = 'nav-search-submit-button' and @type = 'submit']</value>
+      <webElementGuid>39179f08-a07e-45d5-bfef-5e712de5a850</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

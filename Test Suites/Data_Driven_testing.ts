@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Data_Driven_testing</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>def49644-27ab-41db-99f7-3a3fb429beba</testSuiteGuid>
+   <testCaseLink>
+      <guid>45998bea-0de8-4825-9413-8a50954b69ed</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>'Da Vanici Code'</defaultValue>
+         <description></description>
+         <id>3a61d96b-54f3-45ad-ac22-b84b6a57a1c1</id>
+         <masked>false</masked>
+         <name>SearchItem</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/Data-Driven Testing/TC_Amazon_Home_010</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>62d4174c-9003-46e8-9f6f-e81e3462d076</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data_Driven_Testing_001_Excel</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>62d4174c-9003-46e8-9f6f-e81e3462d076</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Category</value>
+         <variableId>3c239a0a-3f1f-4078-b005-01aef8c0194d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>62d4174c-9003-46e8-9f6f-e81e3462d076</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SearchItem</value>
+         <variableId>3a61d96b-54f3-45ad-ac22-b84b6a57a1c1</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

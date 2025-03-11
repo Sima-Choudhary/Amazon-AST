@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Amazon_Home_010</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c8ba897e-5f67-487a-b4c9-579009c6e988</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3c239a0a-3f1f-4078-b005-01aef8c0194d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3a61d96b-54f3-45ad-ac22-b84b6a57a1c1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Books'</defaultValue>
+      <description></description>
+      <id>3c239a0a-3f1f-4078-b005-01aef8c0194d</id>
+      <masked>false</masked>
+      <name>Category</name>
+   </variable>
+   <variable>
+      <defaultValue>'Da Vanici Code'</defaultValue>
+      <description></description>
+      <id>3a61d96b-54f3-45ad-ac22-b84b6a57a1c1</id>
+      <masked>false</masked>
+      <name>SearchItem</name>
+   </variable>
+</TestCaseEntity>

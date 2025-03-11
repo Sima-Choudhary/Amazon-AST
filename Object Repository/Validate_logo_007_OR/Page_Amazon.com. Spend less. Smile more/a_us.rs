@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='nav-logo-sprites']</value>
+         <value>//div/div/a</value>
       </entry>
       <entry>
          <key>CSS</key>

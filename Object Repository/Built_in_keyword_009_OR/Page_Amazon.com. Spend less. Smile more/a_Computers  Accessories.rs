@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*/text()[normalize-space(.)='Computers &amp; Accessories']/parent::*</value>
+         <value>//div[@id='hmenu-content']/ul[6]/li[7]/a</value>
       </entry>
       <entry>
          <key>CSS</key>

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='ap_email']</value>
+         <value>//div/input</value>
       </entry>
       <entry>
          <key>CSS</key>
