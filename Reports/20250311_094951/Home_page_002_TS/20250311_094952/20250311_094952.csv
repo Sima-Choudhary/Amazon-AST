@@ -1,0 +1,34 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Home_page_002_TS,Firefox 136.0,,,11-03-2025 09:50:00,11-03-2025 09:50:40,40.033s,PASSED
+,,,,,,,
+Test Cases/Manual Recording/TC_Amazon_Home_004,Firefox 136.0,,,11-03-2025 09:50:00,11-03-2025 09:50:14,13.930s,PASSED
+"openBrowser("""")",Firefox 136.0,,,11-03-2025 09:50:00,11-03-2025 09:50:05,4.151s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Firefox 136.0,,,11-03-2025 09:50:05,11-03-2025 09:50:06,1.239s,PASSED
+"click(findTestObject(""login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account""))",Firefox 136.0,,,11-03-2025 09:50:06,11-03-2025 09:50:07,1.509s,PASSED
+"click(findTestObject(""Object Repository/currency_setting_004_OR/Page_Amazon.com. Spend less. Smile more/span_USD - U.S. Dollar""))",Firefox 136.0,,,11-03-2025 09:50:07,11-03-2025 09:50:09,2.182s,PASSED
+"click(findTestObject(""Object Repository/currency_setting_004_OR/Page_Change Language  Currency Settings/span_- USD - US Dollar (Default)""))",Firefox 136.0,,,11-03-2025 09:50:09,11-03-2025 09:50:11,1.426s,PASSED
+"click(findTestObject(""Object Repository/currency_setting_004_OR/Page_Change Language  Currency Settings/a_- INR - Indian Rupee""))",Firefox 136.0,,,11-03-2025 09:50:11,11-03-2025 09:50:12,0.749s,PASSED
+"click(findTestObject(""Object Repository/currency_setting_004_OR/Page_Change Language  Currency Settings/input_Cancel_a-button-input""))",Firefox 136.0,,,11-03-2025 09:50:12,11-03-2025 09:50:12,0.542s,PASSED
+closeBrowser(),Firefox 136.0,,,11-03-2025 09:50:12,11-03-2025 09:50:14,1.721s,PASSED
+,,,,,,,
+Test Cases/Record and Playback/TC_Amazon_Home_005,Firefox 136.0,,,11-03-2025 09:50:14,11-03-2025 09:50:25,10.846s,PASSED
+"openBrowser("""")",Firefox 136.0,,,11-03-2025 09:50:14,11-03-2025 09:50:17,2.928s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Firefox 136.0,,,11-03-2025 09:50:17,11-03-2025 09:50:19,2.241s,PASSED
+"click(findTestObject(""Object Repository/country_Selection_005_OR/Page_Amazon.com. Spend less. Smile more/span_United States""))",Firefox 136.0,,,11-03-2025 09:50:19,11-03-2025 09:50:21,1.666s,PASSED
+"click(findTestObject(""Object Repository/country_Selection_005_OR/Page_Go to website/span_United States""))",Firefox 136.0,,,11-03-2025 09:50:21,11-03-2025 09:50:22,1.178s,PASSED
+"click(findTestObject(""Object Repository/country_Selection_005_OR/Page_Go to website/a_India""))",Firefox 136.0,,,11-03-2025 09:50:22,11-03-2025 09:50:23,1.015s,PASSED
+closeBrowser(),Firefox 136.0,,,11-03-2025 09:50:23,11-03-2025 09:50:25,1.699s,PASSED
+,,,,,,,
+Test Cases/Record and Playback/TC_Amazon_Home_006,Firefox 136.0,,,11-03-2025 09:50:25,11-03-2025 09:50:40,14.787s,PASSED
+"openBrowser("""")",Firefox 136.0,,,11-03-2025 09:50:25,11-03-2025 09:50:27,2.135s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Firefox 136.0,,,11-03-2025 09:50:27,11-03-2025 09:50:29,1.602s,PASSED
+"click(findTestObject(""Object Repository/validating_footer_link_006_OR/Page_Amazon.com. Spend less. Smile more/a_Conditions of Use""))",Firefox 136.0,,,11-03-2025 09:50:29,11-03-2025 09:50:30,1.795s,PASSED
+back(STOP_ON_FAILURE),Firefox 136.0,,,11-03-2025 09:50:30,11-03-2025 09:50:31,0.367s,PASSED
+"click(findTestObject(""Object Repository/validating_footer_link_006_OR/Page_Amazon.com. Spend less. Smile more/a_Privacy Notice""))",Firefox 136.0,,,11-03-2025 09:50:31,11-03-2025 09:50:33,2.230s,PASSED
+back(),Firefox 136.0,,,11-03-2025 09:50:33,11-03-2025 09:50:33,0.359s,PASSED
+"click(findTestObject(""Object Repository/validating_footer_link_006_OR/Page_Amazon.com. Spend less. Smile more/a_Interest-Based Ads""))",Firefox 136.0,,,11-03-2025 09:50:33,11-03-2025 09:50:36,2.191s,PASSED
+back(),Firefox 136.0,,,11-03-2025 09:50:36,11-03-2025 09:50:36,0.373s,PASSED
+"click(findTestObject(""Object Repository/validating_footer_link_006_OR/Page_Amazon.com. Spend less. Smile more/li_1996-2024, Amazon.com, Inc. or its affiliates""))",Firefox 136.0,,,11-03-2025 09:50:36,11-03-2025 09:50:37,0.807s,PASSED
+back(),Firefox 136.0,,,11-03-2025 09:50:37,11-03-2025 09:50:37,0.018s,PASSED
+"click(findTestObject(""Object Repository/validating_footer_link_006_OR/Page_Amazon.com. Spend less. Smile more/img""))",Firefox 136.0,,,11-03-2025 09:50:37,11-03-2025 09:50:38,1.311s,PASSED
+closeBrowser(),Firefox 136.0,,,11-03-2025 09:50:38,11-03-2025 09:50:40,1.511s,PASSED

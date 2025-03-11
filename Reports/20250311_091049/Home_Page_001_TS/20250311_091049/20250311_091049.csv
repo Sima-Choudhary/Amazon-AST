@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Home_Page_001_TS,Firefox 136.0,,,11-03-2025 09:10:52,11-03-2025 09:13:39,2m - 46.484s,FAILED
+,,,,,,,
+Test Cases/TC_Amazon_Home_001,Firefox 136.0,,,11-03-2025 09:10:53,11-03-2025 09:11:32,39.143s,FAILED
+"openBrowser("""")",Firefox 136.0,,,11-03-2025 09:10:53,11-03-2025 09:10:56,3.512s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Firefox 136.0,,,11-03-2025 09:10:56,11-03-2025 09:10:59,2.948s,PASSED
+"setText(findTestObject(""Object Repository/Home_page_001_OR/Page_Amazon.com. Spend less. Smile more/input_Amazon_field-keywords""), ""books"")",Firefox 136.0,,,11-03-2025 09:10:59,11-03-2025 09:11:32,32.418s,FAILED
+,,,,,,,
+Test Cases/TC_Amazon_Home_002,Firefox 136.0,,,11-03-2025 09:11:32,11-03-2025 09:12:13,41.641s,FAILED
+"openBrowser("""")",Firefox 136.0,,,11-03-2025 09:11:32,11-03-2025 09:11:35,3.231s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Firefox 136.0,,,11-03-2025 09:11:35,11-03-2025 09:11:37,2.261s,PASSED
+"click(findTestObject(""Object Repository/Language_Check_002_OR/Page_Amazon.com. Spend less. Smile more/i_-_icp-radio icp-radio-active""))",Firefox 136.0,,,11-03-2025 09:11:37,11-03-2025 09:12:13,36.096s,FAILED
+,,,,,,,
+Test Cases/Manual Recording/TC_Amazon_Home_003,Firefox 136.0,,,11-03-2025 09:12:13,11-03-2025 09:13:39,1m - 25.363s,FAILED
+"openBrowser("""")",Firefox 136.0,,,11-03-2025 09:12:13,11-03-2025 09:12:17,3.318s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Firefox 136.0,,,11-03-2025 09:12:17,11-03-2025 09:12:19,1.837s,PASSED
+maximizeWindow(),Firefox 136.0,,,11-03-2025 09:12:19,11-03-2025 09:12:19,0.322s,PASSED
+"click(findTestObject(""login_003_OR/Page_Your Account/span_Hello, sign in""))",Firefox 136.0,,,11-03-2025 09:12:19,11-03-2025 09:12:21,1.737s,PASSED
+"click(findTestObject(""Object Repository/login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Hello, sign in  Account  Lists""))",Firefox 136.0,,,11-03-2025 09:12:21,11-03-2025 09:12:54,33.268s,PASSED
+"setText(findTestObject(""Object Repository/login_003_OR/Page_Amazon Sign-In/input_Email or mobile phone number_email""), ""+918582912274"")",Firefox 136.0,,,11-03-2025 09:12:54,11-03-2025 09:13:39,44.811s,FAILED

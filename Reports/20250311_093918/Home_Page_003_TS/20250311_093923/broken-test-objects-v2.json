@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Todays_deal_008_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account",
+      "brokenLocator": "//div[@id\u003d\u0027navbar-backup-backup\u0027]/div/div[3]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Your Account\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250311_093918/Home_Page_003_TS/20250311_093923/Object Repository/Todays_deal_008_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account",
+      "brokenLocator": "//div[@id\u003d\u0027navbar-backup-backup\u0027]/div/div[3]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Your Account\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250311_093918/Home_Page_003_TS/20250311_093923/Object Repository/login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account_link.png"
+    }
+  ]
+}

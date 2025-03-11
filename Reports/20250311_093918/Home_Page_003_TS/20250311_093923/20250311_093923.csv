@@ -1,0 +1,30 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Home_Page_003_TS,Chrome 133.0.6943.142,,,11-03-2025 09:42:19,11-03-2025 09:44:45,2m - 25.975s,FAILED
+,,,,,,,
+Test Cases/Script Mode/TC_Amazon_Home_007,Chrome 133.0.6943.142,,,11-03-2025 09:42:19,11-03-2025 09:42:41,21.784s,PASSED
+"openBrowser("""")",Chrome 133.0.6943.142,,,11-03-2025 09:42:19,11-03-2025 09:42:22,2.549s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 133.0.6943.142,,,11-03-2025 09:42:22,11-03-2025 09:42:22,0.523s,PASSED
+maximizeWindow(),Chrome 133.0.6943.142,,,11-03-2025 09:42:22,11-03-2025 09:42:23,1.051s,PASSED
+"click(findTestObject(""Object Repository/Validate_logo_007_OR/Page_Amazon.com. Spend less. Smile more/a_us""))",Chrome 133.0.6943.142,,,11-03-2025 09:42:23,11-03-2025 09:42:41,17.127s,PASSED
+closeBrowser(),Chrome 133.0.6943.142,,,11-03-2025 09:42:41,11-03-2025 09:42:41,0.245s,PASSED
+,,,,,,,
+Test Cases/Script Mode/TC_Amazon_Home_008,Chrome 133.0.6943.142,,,11-03-2025 09:42:41,11-03-2025 09:43:50,1m - 8.997s,FAILED
+"openBrowser("""")",Chrome 133.0.6943.142,,,11-03-2025 09:42:41,11-03-2025 09:42:42,0.978s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 133.0.6943.142,,,11-03-2025 09:42:42,11-03-2025 09:42:44,1.784s,PASSED
+"click(findTestObject(""Object Repository/Todays_deal_008_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account""))",Chrome 133.0.6943.142,,,11-03-2025 09:42:44,11-03-2025 09:43:16,32.702s,PASSED
+"click(findTestObject(""Object Repository/Todays_deal_008_OR/Page_Your Account/a_Todays Deals""))",Chrome 133.0.6943.142,,,11-03-2025 09:43:16,11-03-2025 09:43:50,33.425s,FAILED
+,,,,,,,
+Test Cases/Built-In-Keywords/TC_Amazon_Home_009,Chrome 133.0.6943.142,,,11-03-2025 09:43:50,11-03-2025 09:44:45,54.872s,PASSED
+"openBrowser("""")",Chrome 133.0.6943.142,,,11-03-2025 09:43:50,11-03-2025 09:43:51,1.252s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 133.0.6943.142,,,11-03-2025 09:43:51,11-03-2025 09:43:54,2.572s,PASSED
+out.println(getWindowTitle()),Chrome 133.0.6943.142,,,11-03-2025 09:43:54,11-03-2025 09:43:54,0.027s,PASSED
+"click(findTestObject(""login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account""))",Chrome 133.0.6943.142,,,11-03-2025 09:43:54,11-03-2025 09:44:28,34.437s,PASSED
+"click(findTestObject(""Object Repository/Built_in_keyword_009_OR/Page_Amazon.com. Spend less. Smile more/span_All""))",Chrome 133.0.6943.142,,,11-03-2025 09:44:28,11-03-2025 09:44:29,0.885s,PASSED
+"click(findTestObject(""Object Repository/Built_in_keyword_009_OR/Page_Amazon.com. Spend less. Smile more/div_Electronics""))",Chrome 133.0.6943.142,,,11-03-2025 09:44:29,11-03-2025 09:44:31,1.503s,PASSED
+out.println(getWindowIndex()),Chrome 133.0.6943.142,,,11-03-2025 09:44:31,11-03-2025 09:44:31,0.019s,PASSED
+back(),Chrome 133.0.6943.142,,,11-03-2025 09:44:31,11-03-2025 09:44:31,0.068s,PASSED
+"navigateToUrl(""https://www.gmail.com"")",Chrome 133.0.6943.142,,,11-03-2025 09:44:31,11-03-2025 09:44:34,3.558s,PASSED
+delay(5),Chrome 133.0.6943.142,,,11-03-2025 09:44:34,11-03-2025 09:44:39,5.022s,PASSED
+back(),Chrome 133.0.6943.142,,,11-03-2025 09:44:39,11-03-2025 09:44:39,0.048s,PASSED
+delay(5),Chrome 133.0.6943.142,,,11-03-2025 09:44:39,11-03-2025 09:44:44,5.011s,PASSED
+closeBrowser(),Chrome 133.0.6943.142,,,11-03-2025 09:44:44,11-03-2025 09:44:45,0.392s,PASSED

@@ -1,0 +1,34 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Home_Page_003_TS,Firefox 136.0,,,11-03-2025 09:33:20,11-03-2025 09:35:45,2m - 25.000s,PASSED
+,,,,,,,
+Test Cases/Script Mode/TC_Amazon_Home_007,Firefox 136.0,,,11-03-2025 09:33:20,11-03-2025 09:34:02,42.057s,PASSED
+"openBrowser("""")",Firefox 136.0,,,11-03-2025 09:33:20,11-03-2025 09:33:24,3.629s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Firefox 136.0,,,11-03-2025 09:33:24,11-03-2025 09:33:25,1.558s,PASSED
+maximizeWindow(),Firefox 136.0,,,11-03-2025 09:33:25,11-03-2025 09:33:26,0.326s,PASSED
+"click(findTestObject(""Object Repository/Validate_logo_007_OR/Page_Amazon.com. Spend less. Smile more/a_us""))",Firefox 136.0,,,11-03-2025 09:33:26,11-03-2025 09:34:01,35.087s,PASSED
+closeBrowser(),Firefox 136.0,,,11-03-2025 09:34:01,11-03-2025 09:34:02,1.188s,PASSED
+,,,,,,,
+Test Cases/Script Mode/TC_Amazon_Home_008,Firefox 136.0,,,11-03-2025 09:34:02,11-03-2025 09:34:49,46.937s,PASSED
+"openBrowser("""")",Firefox 136.0,,,11-03-2025 09:34:02,11-03-2025 09:34:05,2.613s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Firefox 136.0,,,11-03-2025 09:34:05,11-03-2025 09:34:07,2.182s,PASSED
+"click(findTestObject(""Object Repository/Todays_deal_008_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account""))",Firefox 136.0,,,11-03-2025 09:34:07,11-03-2025 09:34:39,32.123s,PASSED
+"click(findTestObject(""Object Repository/Todays_deal_008_OR/Page_Your Account/a_Todays Deals""))",Firefox 136.0,,,11-03-2025 09:34:39,11-03-2025 09:34:41,2.438s,PASSED
+"click(findTestObject(""Object Repository/Todays_deal_008_OR/Page_Todays Deals/i_All_a-icon a-icon-radio""))",Firefox 136.0,,,11-03-2025 09:34:41,11-03-2025 09:34:43,1.469s,PASSED
+"click(findTestObject(""Object Repository/Todays_deal_008_OR/Page_Todays Deals/a_Clear Filters""))",Firefox 136.0,,,11-03-2025 09:34:43,11-03-2025 09:34:46,2.802s,PASSED
+"click(findTestObject(""Object Repository/Todays_deal_008_OR/Page_Todays Deals/i_Appliances_a-icon a-icon-radio""))",Firefox 136.0,,,11-03-2025 09:34:46,11-03-2025 09:34:48,2.262s,PASSED
+closeBrowser(),Firefox 136.0,,,11-03-2025 09:34:48,11-03-2025 09:34:49,0.938s,PASSED
+,,,,,,,
+Test Cases/Built-In-Keywords/TC_Amazon_Home_009,Firefox 136.0,,,11-03-2025 09:34:49,11-03-2025 09:35:45,55.726s,PASSED
+"openBrowser("""")",Firefox 136.0,,,11-03-2025 09:34:49,11-03-2025 09:34:52,2.590s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Firefox 136.0,,,11-03-2025 09:34:52,11-03-2025 09:34:54,2.048s,PASSED
+out.println(getWindowTitle()),Firefox 136.0,,,11-03-2025 09:34:54,11-03-2025 09:34:54,0.045s,PASSED
+"click(findTestObject(""login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account""))",Firefox 136.0,,,11-03-2025 09:34:54,11-03-2025 09:35:26,32.438s,PASSED
+"click(findTestObject(""Object Repository/Built_in_keyword_009_OR/Page_Amazon.com. Spend less. Smile more/span_All""))",Firefox 136.0,,,11-03-2025 09:35:26,11-03-2025 09:35:27,1.018s,PASSED
+"click(findTestObject(""Object Repository/Built_in_keyword_009_OR/Page_Amazon.com. Spend less. Smile more/div_Electronics""))",Firefox 136.0,,,11-03-2025 09:35:27,11-03-2025 09:35:29,1.478s,PASSED
+out.println(getWindowIndex()),Firefox 136.0,,,11-03-2025 09:35:29,11-03-2025 09:35:29,0.019s,PASSED
+back(),Firefox 136.0,,,11-03-2025 09:35:29,11-03-2025 09:35:29,0.366s,PASSED
+"navigateToUrl(""https://www.gmail.com"")",Firefox 136.0,,,11-03-2025 09:35:29,11-03-2025 09:35:33,4.296s,PASSED
+delay(5),Firefox 136.0,,,11-03-2025 09:35:33,11-03-2025 09:35:38,5.045s,PASSED
+back(),Firefox 136.0,,,11-03-2025 09:35:38,11-03-2025 09:35:39,0.329s,PASSED
+delay(5),Firefox 136.0,,,11-03-2025 09:35:39,11-03-2025 09:35:44,5.013s,PASSED
+closeBrowser(),Firefox 136.0,,,11-03-2025 09:35:44,11-03-2025 09:35:45,0.962s,PASSED

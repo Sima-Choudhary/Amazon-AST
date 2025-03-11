@@ -1,0 +1,34 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Home_page_001_OR/Page_Amazon.com. Spend less. Smile more/input_Amazon_field-keywords",
+      "brokenLocator": "//input[@id\u003d\u0027nav-bb-search\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Hello, sign in  Account  Lists",
+      "brokenLocator": "//a[@id\u003d\u0027nav-link-accountList\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250311_091049/Home_Page_001_TS/20250311_091049/Object Repository/login_003_OR/Page_Amazon.com. Spend less. Smile more/a_Hello, sign in  Account  Lists_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/login_003_OR/Page_Amazon Sign-In/input_Email or mobile phone number_email",
+      "brokenLocator": "//input[@id\u003d\u0027ap_email\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250311_091049"
+    }
+  ]
+}

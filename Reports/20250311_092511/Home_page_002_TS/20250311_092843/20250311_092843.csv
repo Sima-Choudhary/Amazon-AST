@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Home_page_002_TS,Firefox 136.0,,,11-03-2025 09:28:46,11-03-2025 09:29:28,42.200s,FAILED
+,,,,,,,
+Test Cases/Manual Recording/TC_Amazon_Home_004,Firefox 136.0,,,11-03-2025 09:28:46,11-03-2025 09:29:28,41.898s,FAILED
+"openBrowser("""")",Firefox 136.0,,,11-03-2025 09:28:47,11-03-2025 09:28:50,3.421s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Firefox 136.0,,,11-03-2025 09:28:50,11-03-2025 09:28:52,1.740s,PASSED
+"click(findTestObject(""Object Repository/currency_setting_004_OR/Page_Amazon.com. Spend less. Smile more/span_USD - U.S. Dollar""))",Firefox 136.0,,,11-03-2025 09:28:52,11-03-2025 09:29:28,36.500s,FAILED

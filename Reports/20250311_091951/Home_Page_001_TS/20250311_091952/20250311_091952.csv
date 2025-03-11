@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Home_Page_001_TS,Firefox 136.0,,,11-03-2025 09:19:55,11-03-2025 09:21:36,1m - 40.526s,FAILED
+,,,,,,,
+Test Cases/TC_Amazon_Home_001,Firefox 136.0,,,11-03-2025 09:19:56,11-03-2025 09:20:13,16.929s,PASSED
+"openBrowser("""")",Firefox 136.0,,,11-03-2025 09:19:56,11-03-2025 09:19:59,3.291s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Firefox 136.0,,,11-03-2025 09:19:59,11-03-2025 09:20:01,1.652s,PASSED
+"setText(findTestObject(""Object Repository/Home_page_001_OR/Page_Amazon.com. Spend less. Smile more/input_Amazon_field-keywords""), ""books"")",Firefox 136.0,,,11-03-2025 09:20:01,11-03-2025 09:20:02,1.399s,PASSED
+"click(findTestObject(""Object Repository/Home_page_001_OR/Page_Amazon.com. Spend less. Smile more/input_Amazon_nav-bb-button""))",Firefox 136.0,,,11-03-2025 09:20:02,11-03-2025 09:20:05,2.815s,PASSED
+"setText(findTestObject(""Object Repository/Home_page_001_OR/Page_Amazon.com Books/input_Search Amazon_field-keywords""), ""da vanci code"")",Firefox 136.0,,,11-03-2025 09:20:05,11-03-2025 09:20:07,2.065s,PASSED
+"click(findTestObject(""Object Repository/Home_page_001_OR/Page_Amazon.com Books/input_Search Amazon_nav-search-submit-button""))",Firefox 136.0,,,11-03-2025 09:20:07,11-03-2025 09:20:11,4.198s,PASSED
+closeBrowser(),Firefox 136.0,,,11-03-2025 09:20:11,11-03-2025 09:20:13,1.273s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Home_002,Firefox 136.0,,,11-03-2025 09:20:13,11-03-2025 09:20:53,40.134s,FAILED
+"openBrowser("""")",Firefox 136.0,,,11-03-2025 09:20:13,11-03-2025 09:20:15,2.147s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Firefox 136.0,,,11-03-2025 09:20:15,11-03-2025 09:20:17,1.746s,PASSED
+"click(findTestObject(""Object Repository/Language_Check_002_OR/Page_Amazon.com. Spend less. Smile more/i_-_icp-radio icp-radio-active""))",Firefox 136.0,,,11-03-2025 09:20:17,11-03-2025 09:20:53,36.171s,FAILED
+,,,,,,,
+Test Cases/Manual Recording/TC_Amazon_Home_003,Firefox 136.0,,,11-03-2025 09:20:53,11-03-2025 09:21:36,43.171s,FAILED
+"openBrowser("""")",Firefox 136.0,,,11-03-2025 09:20:53,11-03-2025 09:20:56,2.913s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Firefox 136.0,,,11-03-2025 09:20:56,11-03-2025 09:20:57,1.680s,PASSED
+maximizeWindow(),Firefox 136.0,,,11-03-2025 09:20:57,11-03-2025 09:20:58,0.299s,PASSED
+"click(findTestObject(""login_003_OR/Page_Your Account/span_Hello, sign in""))",Firefox 136.0,,,11-03-2025 09:20:58,11-03-2025 09:21:36,38.221s,FAILED

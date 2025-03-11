@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Home_page_002_TS,,,,11-03-2025 09:42:06,11-03-2025 09:42:14,7.627s,FAILED
+,,,,,,,
+Test Cases/Manual Recording/TC_Amazon_Home_004,,,,11-03-2025 09:42:07,11-03-2025 09:42:10,3.170s,FAILED
+"openBrowser("""")",,,,11-03-2025 09:42:07,11-03-2025 09:42:10,2.917s,FAILED
+,,,,,,,
+Test Cases/Record and Playback/TC_Amazon_Home_005,,,,11-03-2025 09:42:10,11-03-2025 09:42:12,2.000s,FAILED
+"openBrowser("""")",,,,11-03-2025 09:42:10,11-03-2025 09:42:12,1.919s,FAILED
+,,,,,,,
+Test Cases/Record and Playback/TC_Amazon_Home_006,,,,11-03-2025 09:42:12,11-03-2025 09:42:14,2.063s,FAILED
+"openBrowser("""")",,,,11-03-2025 09:42:12,11-03-2025 09:42:14,1.973s,FAILED

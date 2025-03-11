@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Home_page_002_TS,Firefox 136.0,,,11-03-2025 09:27:01,11-03-2025 09:27:54,53.366s,FAILED
+,,,,,,,
+Test Cases/Manual Recording/TC_Amazon_Home_004,Firefox 136.0,,,11-03-2025 09:27:01,11-03-2025 09:27:43,42.086s,FAILED
+"openBrowser("""")",Firefox 136.0,,,11-03-2025 09:27:01,11-03-2025 09:27:05,3.380s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Firefox 136.0,,,11-03-2025 09:27:05,11-03-2025 09:27:06,1.635s,PASSED
+"click(findTestObject(""Object Repository/currency_setting_004_OR/Page_Amazon.com. Spend less. Smile more/span_USD - U.S. Dollar""))",Firefox 136.0,,,11-03-2025 09:27:06,11-03-2025 09:27:43,36.785s,FAILED
+,,,,,,,
+Test Cases/Record and Playback/TC_Amazon_Home_005,Firefox 136.0,,,11-03-2025 09:27:43,11-03-2025 09:27:54,10.870s,PASSED
+"openBrowser("""")",Firefox 136.0,,,11-03-2025 09:27:43,11-03-2025 09:27:46,2.990s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Firefox 136.0,,,11-03-2025 09:27:46,11-03-2025 09:27:49,2.825s,PASSED
+"click(findTestObject(""Object Repository/country_Selection_005_OR/Page_Amazon.com. Spend less. Smile more/span_United States""))",Firefox 136.0,,,11-03-2025 09:27:49,11-03-2025 09:27:51,1.718s,PASSED
+"click(findTestObject(""Object Repository/country_Selection_005_OR/Page_Go to website/span_United States""))",Firefox 136.0,,,11-03-2025 09:27:51,11-03-2025 09:27:52,1.533s,PASSED
+"click(findTestObject(""Object Repository/country_Selection_005_OR/Page_Go to website/a_India""))",Firefox 136.0,,,11-03-2025 09:27:52,11-03-2025 09:27:53,0.810s,PASSED
+closeBrowser(),Firefox 136.0,,,11-03-2025 09:27:53,11-03-2025 09:27:54,0.938s,PASSED

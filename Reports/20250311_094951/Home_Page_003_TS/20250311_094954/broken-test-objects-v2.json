@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Validate_logo_007_OR/Page_Amazon.com. Spend less. Smile more/a_us",
+      "brokenLocator": "//a[@id\u003d\u0027nav-logo-sprites\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/a",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250311_094951/Home_Page_003_TS/20250311_094954/Object Repository/Validate_logo_007_OR/Page_Amazon.com. Spend less. Smile more/a_us_position.png"
+    }
+  ]
+}
